@@ -3,17 +3,19 @@
   "id": "us-passport-print",
   "name": "US passport (printed 2 × 2 in)",
   "country_or_group": "United States",
-  "width": 50.8,
-  "height": 50.8,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   50.8,
+   50.8
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    25.4,
    34.9
   ],
   "head_height_official": true,
   "background": "plain white or off-white background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Taken in the last 6 months.",
@@ -47,14 +49,25 @@
   "id": "us-passport-online",
   "name": "US passport, renewing online (check only, no crop)",
   "country_or_group": "United States",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
+   "minW": 0,
+   "minH": 0,
+   "minKB": 54,
+   "maxMB": 10,
+   "types": [
+    "jpg",
+    "jpeg",
+    "png",
+    "heic",
+    "heif"
+   ]
+  },
   "head_height_mm": null,
-  "head_height_official": false,
+  "head_height_official": null,
   "background": "plain white or off-white background",
-  "print": false,
-  "digital": null,
   "upload_original_unedited": true,
   "notes": [
    "Upload the original photo. You can crop it inside the renewal application.",
@@ -88,21 +101,19 @@
   "id": "us-visa-digital",
   "name": "US visa (DS-160 / DS-260 upload)",
   "country_or_group": "United States",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain white or off-white background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "minW": 600,
    "minH": 600,
    "maxW": 1200,
    "maxH": 1200,
-   "maxKB": 240,
-   "label": "square, 600 to 1200 px, max 240 KB"
+   "maxKB": 240
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white or off-white background",
   "upload_original_unedited": false,
   "notes": [
    "No glasses.",
@@ -127,19 +138,15 @@
   "id": "us-dv",
   "name": "DV lottery entry (600 × 600 px)",
   "country_or_group": "United States",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": true,
-  "background": "plain white or off-white background",
-  "print": false,
-  "digital": {
-   "exactW": 600,
-   "exactH": 600,
-   "maxKB": 240,
-   "label": "exactly 600 × 600 px, max 240 KB"
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
+   "maxKB": 240
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white or off-white background",
   "upload_original_unedited": false,
   "notes": [
    "Do not wear glasses.",
@@ -161,19 +168,15 @@
   "id": "us-sat",
   "name": "SAT registration photo",
   "country_or_group": "United States",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "",
-  "print": false,
-  "digital": {
-   "recW": 600,
-   "recH": 800,
-   "prefW": 1200,
-   "label": "JPG (College Board sets no pixel size)"
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
+   "prefW": 1200
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "",
   "upload_original_unedited": false,
   "notes": [
    "The photo must look like you will on test day.",
@@ -194,20 +197,18 @@
   "id": "us-act",
   "name": "ACT registration photo",
   "country_or_group": "United States",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minW": 480,
    "minH": 640,
    "prefW": 1200,
-   "maxKB": 5120,
-   "label": "at least 640 × 480 px, 5 MB or less"
+   "maxKB": 5120
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain background",
   "upload_original_unedited": false,
   "notes": [
    "Portrait orientation, face and shoulders, squarely facing the camera.",
@@ -228,21 +229,17 @@
   "id": "us-lsat",
   "name": "LSAT registration photo",
   "country_or_group": "United States",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "minW": 195,
    "minH": 195,
-   "recW": 400,
-   "recH": 400,
-   "prefW": 800,
-   "label": "square, fills a 195 × 195 px box"
+   "prefW": 800
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain background",
   "upload_original_unedited": false,
   "notes": [
    "It must be a different photo from the one on your government ID.",
@@ -263,17 +260,19 @@
   "id": "uk-passport-print",
   "name": "UK passport (printed photo)",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    29,
    34
   ],
   "head_height_official": true,
   "background": "plain cream or light grey background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Taken in the last month.",
@@ -298,14 +297,18 @@
   "id": "uk-passport-online",
   "name": "UK passport, applying online (check only, no crop)",
   "country_or_group": "United Kingdom",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
+   "minW": 600,
+   "minH": 750,
+   "minKB": 50,
+   "maxMB": 10
+  },
   "head_height_mm": null,
-  "head_height_official": false,
+  "head_height_official": null,
   "background": "plain light-coloured background",
-  "print": false,
-  "digital": null,
   "upload_original_unedited": true,
   "notes": [
    "Do not crop or edit the photo. GOV.UK crops it for you.",
@@ -331,20 +334,16 @@
   "id": "uk-railcard",
   "name": "UK Railcard photo",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light background",
-  "print": false,
-  "digital": {
-   "recW": 600,
-   "recH": 771,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "35:45",
+  "digital_file": {
    "prefW": 1050,
-   "maxKB": 5120,
-   "label": "JPG, 5 MB or less"
+   "maxKB": 5120
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light background",
   "upload_original_unedited": false,
   "notes": [
    "No sunglasses or clothing that hides your face.",
@@ -364,21 +363,19 @@
   "id": "uk-eta",
   "name": "UK ETA or UK visa (digital photo)",
   "country_or_group": "United Kingdom",
-  "width": 4,
-  "height": 5,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "4:5",
+  "digital_file": {
    "minW": 600,
    "minH": 750,
    "prefW": 1200,
    "minKB": 50,
-   "maxKB": 6000,
-   "label": "at least 600 × 750 px, 50 KB to 6 MB"
+   "maxKB": 6000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "It must not be the same photo as the one in your passport.",
@@ -404,20 +401,18 @@
   "id": "uk-citizencard",
   "name": "CitizenCard (UK proof of age)",
   "country_or_group": "United Kingdom",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minW": 960,
    "minH": 1280,
    "prefW": 1500,
-   "maxKB": 25000,
-   "label": "JPG, at least 1280 px on the long side, max 25 MB"
+   "maxKB": 25000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "Taken within the last six months.",
@@ -439,20 +434,16 @@
   "id": "uk-tfl-oyster-photocard",
   "name": "TfL Zip, 18+ Student and 60+ Oyster photocard (digital photo)",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light background (TfL names no colour; this is a passport-style default)",
-  "print": false,
-  "digital": {
-   "recW": 600,
-   "recH": 771,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "35:45",
+  "digital_file": {
    "prefW": 1050,
-   "maxKB": 5800,
-   "label": "JPG, less than 6 MB"
+   "maxKB": 5800
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light background (TfL names no colour; this is a passport-style default)",
   "upload_original_unedited": false,
   "notes": [
    "A clear, unaltered colour photo: no filters or edits.",
@@ -490,19 +481,15 @@
   "id": "uk-cscs",
   "name": "CSCS card (construction), uploaded photo",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain white background",
-  "print": false,
-  "digital": {
-   "recW": 600,
-   "recH": 771,
-   "prefW": 1050,
-   "label": "JPG or JPEG (not PDF)"
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "35:45",
+  "digital_file": {
+   "prefW": 1050
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white background",
   "upload_original_unedited": false,
   "notes": [
    "Plain white background, in clear contrast to you.",
@@ -524,21 +511,19 @@
   "id": "uk-veteran-card",
   "name": "HM Armed Forces Veteran Card (digital photo)",
   "country_or_group": "United Kingdom",
-  "width": 4,
-  "height": 5,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "4:5",
+  "digital_file": {
    "minW": 600,
    "minH": 750,
    "prefW": 1200,
    "minKB": 50,
-   "maxKB": 9500,
-   "label": "at least 600 × 750 px, 50 KB to 10 MB (GOV.UK digital photo rules)"
+   "maxKB": 9500
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "A recent photo showing your head and shoulders.",
@@ -572,17 +557,19 @@
   "id": "uk-driving-licence-print",
   "name": "UK driving licence, postal D1 application (printed photo)",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    29,
    34
   ],
   "head_height_official": true,
   "background": "plain cream or light grey background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "DVLA asks for one recent printed passport-type photo with a paper D1 application.",
@@ -620,20 +607,19 @@
   "id": "uk-firearms-certificate",
   "name": "UK firearm or shotgun certificate (Form 201)",
   "country_or_group": "United Kingdom",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1050,
+   "maxKB": 1000
+  },
   "head_height_mm": null,
   "head_height_official": false,
   "background": "plain cream or grey background",
-  "print": true,
-  "digital": {
-   "recW": 600,
-   "recH": 771,
-   "prefW": 1050,
-   "maxKB": 1000,
-   "label": "JPG under 1 MB (Thames Valley Police online form; check your own force)"
-  },
   "upload_original_unedited": false,
   "notes": [
    "Paper applications need one photo; a passport-style 45 × 35 mm print is suitable.",
@@ -663,20 +649,18 @@
   "id": "ie-passport-online",
   "name": "Irish passport (Passport Online)",
   "country_or_group": "Ireland",
-  "width": 715,
-  "height": 951,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light grey, white or cream background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "715:951",
+  "digital_file": {
    "minW": 715,
    "minH": 951,
    "prefW": 1430,
-   "maxKB": 9000,
-   "label": "at least 715 × 951 px, max 9 MB"
+   "maxKB": 9000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light grey, white or cream background",
   "upload_original_unedited": false,
   "notes": [
    "Someone else must take the photo. Selfies are refused.",
@@ -698,14 +682,16 @@
   "id": "ie-visa",
   "name": "Irish visa (printed photo)",
   "country_or_group": "Ireland",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": null,
   "head_height_official": true,
   "background": "plain white or light grey background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "You need 2 identical photos, less than 6 months old.",
@@ -731,14 +717,16 @@
   "id": "ie-passport-print",
   "name": "Irish passport (paper application, printed photo)",
   "country_or_group": "Ireland",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": null,
   "head_height_official": false,
   "background": "completely plain light grey, white or cream background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "You need 4 identical photos, no more than 6 months old.",
@@ -760,18 +748,16 @@
   "id": "ie-student-leap",
   "name": "Student TFI Leap Card (selfie upload)",
   "country_or_group": "Ireland",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain background with good lighting",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "prefW": 1200,
-   "maxKB": 5000,
-   "label": "JPEG (PNG, TIFF, BMP also accepted), max 5 MB"
+   "maxKB": 5000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain background with good lighting",
   "upload_original_unedited": false,
   "notes": [
    "Remove hats, masks and glasses.",
@@ -805,14 +791,16 @@
   "id": "ie-spsv-driver",
   "name": "Ireland SPSV driver licence (printed, about 10 × 7 cm)",
   "country_or_group": "Ireland",
-  "width": 70,
-  "height": 100,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   70,
+   100
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": null,
   "head_height_official": false,
   "background": "plain, light background (NTA names no colour; passport-style default)",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "You need 3 identical photos, each about 10 cm by 7 cm.",
@@ -838,17 +826,19 @@
   "id": "schengen-visa",
   "name": "Schengen visa (35 × 45 mm)",
   "country_or_group": "Europe",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    32,
    36
   ],
   "head_height_official": true,
   "background": "white or off-white background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Check how recent your consulate wants the photo: 3 or 6 months.",
@@ -873,17 +863,19 @@
   "id": "au-passport-print",
   "name": "Australian passport (printed)",
   "country_or_group": "Australia and New Zealand",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    32,
    36
   ],
   "head_height_official": true,
   "background": "plain white or light grey background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Have it printed by dye sublimation at a photo lab or kiosk, not on an inkjet printer.",
@@ -909,20 +901,18 @@
   "id": "au-wwcc-vic",
   "name": "Working with Children Check (Victoria)",
   "country_or_group": "Australia and New Zealand",
-  "width": 406,
-  "height": 521,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "406:521",
+  "digital_file": {
    "minW": 406,
    "minH": 521,
    "prefW": 1218,
-   "maxKB": 4900,
-   "label": "JPG under 5 MB, at least 406 × 521 px"
+   "maxKB": 4900
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "Less than 12 months old, in colour.",
@@ -943,20 +933,16 @@
   "id": "au-immiaccount",
   "name": "Australia ImmiAccount (citizenship and visas)",
   "country_or_group": "Australia and New Zealand",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "neutral or light grey background",
-  "print": false,
-  "digital": {
-   "exactW": 1200,
-   "exactH": 1600,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minKB": 70,
-   "maxKB": 3500,
-   "label": "JPEG, 70 KB to 3.5 MB, preferred 1200 × 1600 px"
+   "maxKB": 3500
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "neutral or light grey background",
   "upload_original_unedited": false,
   "notes": [
    "No more than 6 months old.",
@@ -982,23 +968,21 @@
   "id": "nz-passport-online",
   "name": "New Zealand passport (online)",
   "country_or_group": "Australia and New Zealand",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minW": 900,
    "minH": 1200,
    "maxW": 4500,
    "maxH": 6000,
    "prefW": 1800,
    "minKB": 250,
-   "maxKB": 5000,
-   "label": "3:4, 900 to 4500 px wide, 250 KB to 5 MB"
+   "maxKB": 5000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "Someone else must take it from about 1.5 m. Selfies are rejected.",
@@ -1024,23 +1008,21 @@
   "id": "nz-visa-online",
   "name": "New Zealand visa or NZeTA",
   "country_or_group": "Australia and New Zealand",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light-coloured (not white) background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minW": 900,
    "minH": 1200,
    "maxW": 2250,
    "maxH": 3000,
    "prefW": 1500,
    "minKB": 500,
-   "maxKB": 3000,
-   "label": "3:4, 900 × 1200 to 2250 × 3000 px, 500 KB to 3 MB"
+   "maxKB": 3000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured (not white) background",
   "upload_original_unedited": false,
   "notes": [
    "The background must be light but not white.",
@@ -1061,14 +1043,16 @@
   "id": "nz-kiwi-access",
   "name": "Kiwi Access Card (printed 35 × 45 mm)",
   "country_or_group": "Australia and New Zealand",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": null,
   "head_height_official": false,
   "background": "plain, light-coloured background that is not white",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Two identical colour prints, taken within the last 12 months.",
@@ -1098,23 +1082,21 @@
   "id": "nz-firearms-licence",
   "name": "New Zealand firearms licence (MyFirearms upload)",
   "country_or_group": "Australia and New Zealand",
-  "width": 3,
-  "height": 4,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain, light-coloured background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
    "minW": 900,
    "minH": 1200,
    "maxW": 4500,
    "maxH": 6000,
    "prefW": 1800,
    "minKB": 25,
-   "maxKB": 9500,
-   "label": "3:4 JPG, 900 × 1200 to 4500 × 6000 px, 25 KB to 10 MB"
+   "maxKB": 9500
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured background",
   "upload_original_unedited": false,
   "notes": [
    "In colour and taken within the last 12 months.",
@@ -1144,21 +1126,17 @@
   "id": "in-evisa",
   "name": "India e-Visa",
   "country_or_group": "India",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light-coloured or white background",
-  "print": false,
-  "digital": {
-   "recW": 350,
-   "recH": 350,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "prefW": 1000,
    "minKB": 10,
-   "maxKB": 1000,
-   "label": "square JPEG, 10 KB to 1 MB"
+   "maxKB": 1000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light-coloured or white background",
   "upload_original_unedited": false,
   "notes": [
    "No spectacles.",
@@ -1183,22 +1161,20 @@
   "id": "in-visa-regular",
   "name": "India visa (regular, via mission)",
   "country_or_group": "India",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light-coloured or white background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "minW": 350,
    "minH": 350,
    "maxW": 1000,
    "maxH": 1000,
    "minKB": 10,
-   "maxKB": 300,
-   "label": "square, 350 to 1000 px, 10 to 300 KB"
+   "maxKB": 300
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light-coloured or white background",
   "upload_original_unedited": false,
   "notes": [
    "Full face, front view, eyes open.",
@@ -1222,21 +1198,19 @@
   "id": "in-oci",
   "name": "OCI card",
   "country_or_group": "India",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain light-coloured (not white) background",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "minW": 200,
    "minH": 200,
    "maxW": 900,
    "maxH": 900,
-   "maxKB": 200,
-   "label": "square, 200 to 900 px, max 200 KB"
+   "maxKB": 200
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain light-coloured (not white) background",
   "upload_original_unedited": false,
   "notes": [
    "The background must be light but not white.",
@@ -1257,19 +1231,15 @@
   "id": "in-passport-overseas",
   "name": "Indian passport, applying abroad (630 × 810 px)",
   "country_or_group": "India",
-  "width": 630,
-  "height": 810,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "white background",
-  "print": false,
-  "digital": {
-   "exactW": 630,
-   "exactH": 810,
-   "maxKB": 250,
-   "label": "630 × 810 px, under 250 KB"
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "630:810",
+  "digital_file": {
+   "maxKB": 250
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background",
   "upload_original_unedited": false,
   "notes": [
    "Colour, 630 × 810 pixels, on a white background.",
@@ -1323,20 +1293,16 @@
   "id": "in-pan-scan",
   "name": "PAN card, Protean online with scanned images (max 20 KB)",
   "country_or_group": "India",
-  "width": 197,
-  "height": 276,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "white background",
-  "print": false,
-  "digital": {
-   "exactW": 197,
-   "exactH": 276,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "197:276",
+  "digital_file": {
    "maxKB": 20,
-   "label": "197 × 276 px (3.5 × 2.5 cm at 200 dpi), colour JPEG, max 20 KB",
    "dpi": 200
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background",
   "upload_original_unedited": false,
   "notes": [
    "Colour JPEG, no larger than 20 KB.",
@@ -1373,14 +1339,16 @@
   "id": "in-pan-print",
   "name": "PAN card (printed 4.5 × 3.5 cm, Form 93)",
   "country_or_group": "India",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": null,
   "head_height_official": false,
   "background": "white background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "You need 2 identical recent colour photos.",
@@ -1417,20 +1385,16 @@
   "id": "cn-visa-digital",
   "name": "China visa (online form upload)",
   "country_or_group": "China",
-  "width": 354,
-  "height": 472,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "white or close to white background",
-  "print": false,
-  "digital": {
-   "exactW": 354,
-   "exactH": 472,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "354:472",
+  "digital_file": {
    "minKB": 40,
-   "maxKB": 120,
-   "label": "max 354 × 472 px, 40 to 120 KB"
+   "maxKB": 120
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white or close to white background",
   "upload_original_unedited": false,
   "notes": [
    "Ears visible, lips closed, eyes open.",
@@ -1455,17 +1419,19 @@
   "id": "cn-visa-print",
   "name": "China visa (printed 33 × 48 mm)",
   "country_or_group": "China",
-  "width": 33,
-  "height": 48,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   33,
+   48
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    28,
    33
   ],
   "head_height_official": true,
   "background": "white or close to white background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Print on glossy photo paper, not matte or plain paper.",
@@ -1489,20 +1455,16 @@
   "id": "sa-evisa",
   "name": "Saudi Arabia eVisa",
   "country_or_group": "Middle East",
-  "width": 1,
-  "height": 1,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": true,
-  "background": "white background with no pattern or shadows",
-  "print": false,
-  "digital": {
-   "exactW": 200,
-   "exactH": 200,
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
    "minKB": 5,
-   "maxKB": 100,
-   "label": "200 × 200 px, 5 to 100 KB"
+   "maxKB": 100
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background with no pattern or shadows",
   "upload_original_unedited": false,
   "notes": [
    "No more than six months old.",
@@ -1523,17 +1485,18 @@
   "id": "ae-icp-photo",
   "name": "UAE passport or Emirates ID (ICP, 3.5 × 4.5 cm)",
   "country_or_group": "Middle East",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1000
+  },
   "head_height_mm": null,
   "head_height_official": true,
   "background": "white background",
-  "print": true,
-  "digital": {
-   "prefW": 1000,
-   "label": "35 × 45 mm shape as a JPEG (ICP publishes no pixel or file-size limit)"
-  },
   "upload_original_unedited": false,
   "notes": [
    "No more than 6 months old; for a renewal, not the same photo as on your current passport or ID card.",
@@ -1567,17 +1530,19 @@
   "id": "size-35x45",
   "name": "35 × 45 mm (standard passport size)",
   "country_or_group": "Standard sizes",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    32,
    36
   ],
   "head_height_official": false,
   "background": "plain light background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "This is a generic size. Check the head size your own document requires.",
@@ -1592,20 +1557,19 @@
   "id": "size-2x2",
   "name": "2 × 2 inch (51 × 51 mm)",
   "country_or_group": "Standard sizes",
-  "width": 50.8,
-  "height": 50.8,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   50.8,
+   50.8
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "maxW": 1200,
+   "maxH": 1200
+  },
   "head_height_mm": null,
   "head_height_official": false,
   "background": "plain white or off-white background",
-  "print": true,
-  "digital": {
-   "recW": 600,
-   "recH": 600,
-   "maxW": 1200,
-   "maxH": 1200,
-   "label": "square, 600 to 1200 px"
-  },
   "upload_original_unedited": false,
   "notes": [
    "This is a generic size. Check the rules of the document you are applying for.",
@@ -1620,17 +1584,19 @@
   "id": "ca-visitor-visa",
   "name": "Canada visitor visa (printed, 35 × 45 mm)",
   "country_or_group": "Canada",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    31,
    36
   ],
   "head_height_official": true,
   "background": "plain white or light-coloured background",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Two identical photos, taken within the last six months.",
@@ -1664,14 +1630,24 @@
   "id": "ca-pr-card-online",
   "name": "Canada PR card, online application (check only, no crop)",
   "country_or_group": "Canada",
-  "width": 5,
-  "height": 7,
-  "unit": "ratio",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "5:7",
+  "digital_file": {
+   "minW": 715,
+   "minH": 1000,
+   "maxW": 2000,
+   "maxH": 2800,
+   "minKB": 0,
+   "maxMB": 4,
+   "types": [
+    "jpg",
+    "jpeg"
+   ]
+  },
   "head_height_mm": null,
-  "head_height_official": false,
+  "head_height_official": null,
   "background": "plain, untextured white background",
-  "print": false,
-  "digital": null,
   "upload_original_unedited": true,
   "notes": [
    "IRCC requires a commercial photographer or studio. Check the file the studio gives you; do not edit it.",
@@ -1693,24 +1669,23 @@
   "id": "ca-pal",
   "name": "Canada firearms licence (PAL), 45 × 57 mm",
   "country_or_group": "Canada",
-  "width": 45,
-  "height": 57,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   45,
+   57
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1350,
+   "minKB": 200,
+   "maxKB": 6000
+  },
   "head_height_mm": [
    30,
    36
   ],
   "head_height_official": false,
   "background": "plain white or light-coloured background",
-  "print": true,
-  "digital": {
-   "recW": 900,
-   "recH": 1140,
-   "prefW": 1350,
-   "minKB": 200,
-   "maxKB": 6000,
-   "label": "JPG, portrait, 200 KB to 6 MB"
-  },
   "upload_original_unedited": false,
   "notes": [
    "Your head must be at least 30 mm high (RCMP); the upper limit here is recommended framing.",
@@ -1740,19 +1715,17 @@
   "id": "jp-passport-online",
   "name": "Japanese passport, applying online (JPG upload)",
   "country_or_group": "Japan",
-  "width": 35,
-  "height": 45,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain background (the app turns it white)",
-  "print": false,
-  "digital": {
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "35:45",
+  "digital_file": {
    "prefW": 1000,
    "minKB": 20,
-   "maxKB": 600,
-   "label": "JPG, 20 to 600 KB (fits Mynaportal and ORR-net)"
+   "maxKB": 600
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain background (the app turns it white)",
   "upload_original_unedited": false,
   "notes": [
    "No edits that change your face: no eye enlarging, skin whitening, mole or wrinkle removal, or face slimming.",
@@ -1786,17 +1759,19 @@
   "id": "jp-passport-print",
   "name": "Japanese passport (printed 45 × 35 mm)",
   "country_or_group": "Japan",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    32,
    36
   ],
   "head_height_official": true,
   "background": "plain background with nothing behind you (white recommended)",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Taken within 6 months before you apply.",
@@ -1830,17 +1805,19 @@
   "id": "sg-passport-print",
   "name": "Singapore passport (printed 35 × 45 mm)",
   "country_or_group": "Singapore",
-  "width": 35,
-  "height": 45,
-  "unit": "mm",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
   "head_height_mm": [
    25,
    35
   ],
   "head_height_official": true,
   "background": "plain white background (light grey if your hair is white)",
-  "print": true,
-  "digital": null,
   "upload_original_unedited": false,
   "notes": [
    "Taken within the last 3 months, in colour, with no border.",
@@ -1874,19 +1851,15 @@
   "id": "sg-passport-online",
   "name": "Singapore passport or IC, applying online (400 × 514 px)",
   "country_or_group": "Singapore",
-  "width": 400,
-  "height": 514,
-  "unit": "ratio",
-  "head_height_mm": null,
-  "head_height_official": false,
-  "background": "plain white background",
-  "print": false,
-  "digital": {
-   "exactW": 400,
-   "exactH": 514,
-   "maxKB": 8000,
-   "label": "400 × 514 px, max 8 MB"
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "400:514",
+  "digital_file": {
+   "maxKB": 8000
   },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white background",
   "upload_original_unedited": false,
   "notes": [
    "Taken within the last 3 months, in colour.",
