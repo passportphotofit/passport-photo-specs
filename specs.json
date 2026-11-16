@@ -1,0 +1,1919 @@
+[
+ {
+  "id": "us-passport-print",
+  "name": "US passport (printed 2 × 2 in)",
+  "country_or_group": "United States",
+  "width": 50.8,
+  "height": 50.8,
+  "unit": "mm",
+  "head_height_mm": [
+   25.4,
+   34.9
+  ],
+  "head_height_official": true,
+  "background": "plain white or off-white background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken in the last 6 months.",
+   "No glasses, unless you have a signed statement from a doctor.",
+   "No uniforms, camouflage, headphones or wireless earbuds.",
+   "Print on matte or glossy photo-quality paper.",
+   "No filters or retouching of any kind."
+  ],
+  "official_sources": [
+   {
+    "name": "U.S. Department of State: Form DS-82 instructions",
+    "url": "https://eforms.state.gov/Forms/ds82%5Fpdf.PDF"
+   },
+   {
+    "name": "Foreign Affairs Manual, 8 FAM 402.1 (passport photographs)",
+    "url": "https://fam.state.gov/FAM/08FAM/08FAM040201.html"
+   },
+   {
+    "name": "State Department: Uploading a digital photo (online renewal)",
+    "url": "https://travel.state.gov/en/passports/renew-replace/online/upload-digital-photo.html"
+   },
+   {
+    "name": "State Department: Renew your passport online",
+    "url": "https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/us-passport-photo/"
+ },
+ {
+  "id": "us-passport-online",
+  "name": "US passport, renewing online (check only, no crop)",
+  "country_or_group": "United States",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain white or off-white background",
+  "print": false,
+  "digital": null,
+  "upload_original_unedited": true,
+  "notes": [
+   "Upload the original photo. You can crop it inside the renewal application.",
+   "Taken in the last 6 months.",
+   "Remove glasses unless you have a documented religious or medical reason.",
+   "Both eyes open; avoid showing teeth.",
+   "Do not send the photo to yourself by text message: it lowers the quality."
+  ],
+  "official_sources": [
+   {
+    "name": "U.S. Department of State: Form DS-82 instructions",
+    "url": "https://eforms.state.gov/Forms/ds82%5Fpdf.PDF"
+   },
+   {
+    "name": "Foreign Affairs Manual, 8 FAM 402.1 (passport photographs)",
+    "url": "https://fam.state.gov/FAM/08FAM/08FAM040201.html"
+   },
+   {
+    "name": "State Department: Uploading a digital photo (online renewal)",
+    "url": "https://travel.state.gov/en/passports/renew-replace/online/upload-digital-photo.html"
+   },
+   {
+    "name": "State Department: Renew your passport online",
+    "url": "https://travel.state.gov/content/travel/en/passports/have-passport/renew-online.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/us-passport-photo/"
+ },
+ {
+  "id": "us-visa-digital",
+  "name": "US visa (DS-160 / DS-260 upload)",
+  "country_or_group": "United States",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain white or off-white background",
+  "print": false,
+  "digital": {
+   "minW": 600,
+   "minH": 600,
+   "maxW": 1200,
+   "maxH": 1200,
+   "maxKB": 240,
+   "label": "square, 600 to 1200 px, max 240 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No glasses.",
+   "Neutral expression, both eyes open.",
+   "Taken in the last 6 months.",
+   "No filters or retouching."
+  ],
+  "official_sources": [
+   {
+    "name": "U.S. Embassy in Belgium: Photo requirements (digital image specifications)",
+    "url": "https://be.usembassy.gov/photos/"
+   },
+   {
+    "name": "Department of State: Diversity Visa instructions, Federal Register",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2024-10-01/pdf/2024-22482.pdf"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/us-visa-photo/"
+ },
+ {
+  "id": "us-dv",
+  "name": "DV lottery entry (600 × 600 px)",
+  "country_or_group": "United States",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": true,
+  "background": "plain white or off-white background",
+  "print": false,
+  "digital": {
+   "exactW": 600,
+   "exactH": 600,
+   "maxKB": 240,
+   "label": "exactly 600 × 600 px, max 240 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Do not wear glasses.",
+   "Do not reuse the photo from an earlier entry.",
+   "Neutral expression, both eyes open.",
+   "Taken in the last 6 months.",
+   "A separate photo is needed for your spouse and each child."
+  ],
+  "official_sources": [
+   {
+    "name": "U.S. Department of State: Diversity Visa instructions (Federal Register, 1 October 2024)",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2024-10-01/pdf/2024-22482.pdf"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/dv-lottery-photo/"
+ },
+ {
+  "id": "us-sat",
+  "name": "SAT registration photo",
+  "country_or_group": "United States",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "",
+  "print": false,
+  "digital": {
+   "recW": 600,
+   "recH": 800,
+   "prefW": 1200,
+   "label": "JPG (College Board sets no pixel size)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "The photo must look like you will on test day.",
+   "Head covering only if worn for religious purposes.",
+   "No sunglasses; both eyes visible.",
+   "No filters or edits of any kind."
+  ],
+  "official_sources": [
+   {
+    "name": "College Board: SAT photo requirements",
+    "url": "https://satsuite.collegeboard.org/sat/registration/online-registration/photo-requirements"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/sat-photo/"
+ },
+ {
+  "id": "us-act",
+  "name": "ACT registration photo",
+  "country_or_group": "United States",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain background",
+  "print": false,
+  "digital": {
+   "minW": 480,
+   "minH": 640,
+   "prefW": 1200,
+   "maxKB": 5120,
+   "label": "at least 640 × 480 px, 5 MB or less"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Portrait orientation, face and shoulders, squarely facing the camera.",
+   "No dark glasses.",
+   "No filters, text, stickers or enhancements.",
+   "Not a photo of a photo, and not a scan of a licence or school ID."
+  ],
+  "official_sources": [
+   {
+    "name": "ACT: Photo submission requirements",
+    "url": "https://www.act.org/content/act/en/products-and-services/the-act/registration/photo-submission-requirements.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/act-photo/"
+ },
+ {
+  "id": "us-lsat",
+  "name": "LSAT registration photo",
+  "country_or_group": "United States",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain background",
+  "print": false,
+  "digital": {
+   "minW": 195,
+   "minH": 195,
+   "recW": 400,
+   "recH": 400,
+   "prefW": 800,
+   "label": "square, fills a 195 × 195 px box"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "It must be a different photo from the one on your government ID.",
+   "Only you, facing the camera, head and shoulders only.",
+   "No sunglasses, dark lenses or glare over the eyes.",
+   "Do not scan or photograph your ID."
+  ],
+  "official_sources": [
+   {
+    "name": "Law School Admission Council: LSAT photo requirements",
+    "url": "https://www.lsac.org/lsat/lsat-photo-requirements"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/lsat-photo/"
+ },
+ {
+  "id": "uk-passport-print",
+  "name": "UK passport (printed photo)",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   29,
+   34
+  ],
+  "head_height_official": true,
+  "background": "plain cream or light grey background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken in the last month.",
+   "You need 2 identical photos on plain white photographic paper, no border.",
+   "Avoid glasses unless you must wear them; no tint, glare or reflection.",
+   "Plain expression, mouth closed, nothing covering the face."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK: Get a passport photo",
+    "url": "https://www.gov.uk/photos-for-passports"
+   },
+   {
+    "name": "GOV.UK: Rules for printed photos",
+    "url": "https://www.gov.uk/photos-for-passports/photo-requirements"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/uk-passport-photo/"
+ },
+ {
+  "id": "uk-passport-online",
+  "name": "UK passport, applying online (check only, no crop)",
+  "country_or_group": "United Kingdom",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured background",
+  "print": false,
+  "digital": null,
+  "upload_original_unedited": true,
+  "notes": [
+   "Do not crop or edit the photo. GOV.UK crops it for you.",
+   "Taken in the last month.",
+   "Include your head, shoulders and upper body.",
+   "Plain expression, mouth closed, eyes open.",
+   "Avoid glasses unless you have to wear them; no tint, glare or reflection."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK: Get a passport photo",
+    "url": "https://www.gov.uk/photos-for-passports"
+   },
+   {
+    "name": "GOV.UK: Rules for printed photos",
+    "url": "https://www.gov.uk/photos-for-passports/photo-requirements"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/uk-passport-photo/"
+ },
+ {
+  "id": "uk-railcard",
+  "name": "UK Railcard photo",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light background",
+  "print": false,
+  "digital": {
+   "recW": 600,
+   "recH": 771,
+   "prefW": 1050,
+   "maxKB": 5120,
+   "label": "JPG, 5 MB or less"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No sunglasses or clothing that hides your face.",
+   "No other people or objects in the photo.",
+   "No filters or digital edits."
+  ],
+  "official_sources": [
+   {
+    "name": "Railcard: Help and FAQs",
+    "url": "https://www.railcard.co.uk/help/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/railcard-photo/"
+ },
+ {
+  "id": "uk-eta",
+  "name": "UK ETA or UK visa (digital photo)",
+  "country_or_group": "United Kingdom",
+  "width": 4,
+  "height": 5,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 600,
+   "minH": 750,
+   "prefW": 1200,
+   "minKB": 50,
+   "maxKB": 6000,
+   "label": "at least 600 × 750 px, 50 KB to 6 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "It must not be the same photo as the one in your passport.",
+   "Show your head, shoulders and upper body.",
+   "Do not mirror or flip the photo, and do not add a filter.",
+   "Avoid glasses unless you have to wear them.",
+   "Not a scan or a photo of another photo."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK: How to take a photo for a visa application or permission",
+    "url": "https://www.gov.uk/guidance/how-to-take-a-photo-for-a-visa-application-or-permission"
+   },
+   {
+    "name": "GOV.UK: Apply for an electronic travel authorisation (ETA)",
+    "url": "https://www.gov.uk/eta"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/uk-eta-photo/"
+ },
+ {
+  "id": "uk-citizencard",
+  "name": "CitizenCard (UK proof of age)",
+  "country_or_group": "United Kingdom",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 960,
+   "minH": 1280,
+   "prefW": 1500,
+   "maxKB": 25000,
+   "label": "JPG, at least 1280 px on the long side, max 25 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken within the last six months.",
+   "Close-up of your full head and upper shoulders.",
+   "Neutral expression, mouth closed.",
+   "No caps, hair accessories or glasses pushed up on the head.",
+   "No filters and no AI-made or AI-altered images."
+  ],
+  "official_sources": [
+   {
+    "name": "CitizenCard: Photo guidance",
+    "url": "https://www.citizencard.com/photo-guidance"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/citizencard-photo/"
+ },
+ {
+  "id": "uk-tfl-oyster-photocard",
+  "name": "TfL Zip, 18+ Student and 60+ Oyster photocard (digital photo)",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light background (TfL names no colour; this is a passport-style default)",
+  "print": false,
+  "digital": {
+   "recW": 600,
+   "recH": 771,
+   "prefW": 1050,
+   "maxKB": 5800,
+   "label": "JPG, less than 6 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "A clear, unaltered colour photo: no filters or edits.",
+   "Nothing covering the head unless it is worn consistently for religious or medical reasons.",
+   "The photo must be a true likeness of the card holder.",
+   "This is the portrait upload, not the image of the passport details page.",
+   "TfL emails you if it rejects the photo, and you then upload another."
+  ],
+  "official_sources": [
+   {
+    "name": "TfL: 11-15 Zip Oyster photocard",
+    "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/11-15-zip-oyster-photocard"
+   },
+   {
+    "name": "TfL: 16+ Zip Oyster photocard",
+    "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/16-plus-zip-oyster-photocard"
+   },
+   {
+    "name": "TfL: 18+ Student Oyster photocard",
+    "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/18-plus-student-oyster-photocard"
+   },
+   {
+    "name": "TfL: 60+ London Oyster photocard",
+    "url": "https://tfl.gov.uk/fares/free-and-discounted-travel/60-plus-oyster-photocard"
+   },
+   {
+    "name": "TfL FOI: Book 3, Discounts and Photocards (March 2025)",
+    "url": "https://foi.tfl.gov.uk/FOI-3904-2425/Book%203%20Discounts%20and%20Photocards%20-%20%20March%202025.pdf"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/tfl-zip-oyster-photocard-photo/"
+ },
+ {
+  "id": "uk-cscs",
+  "name": "CSCS card (construction), uploaded photo",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain white background",
+  "print": false,
+  "digital": {
+   "recW": 600,
+   "recH": 771,
+   "prefW": 1050,
+   "label": "JPG or JPEG (not PDF)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Plain white background, in clear contrast to you.",
+   "No more than two years old.",
+   "Close-up of your full head and shoulders, nobody and nothing else in it.",
+   "No sunglasses or tinted glasses, no glare, no red eye, no shadows.",
+   "Unaltered by computer software. Save as JPG, never PDF."
+  ],
+  "official_sources": [
+   {
+    "name": "CSCS: Photo requirements",
+    "url": "https://www.cscs.uk.com/photo-requirements/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/cscs-card-photo/"
+ },
+ {
+  "id": "uk-veteran-card",
+  "name": "HM Armed Forces Veteran Card (digital photo)",
+  "country_or_group": "United Kingdom",
+  "width": 4,
+  "height": 5,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 600,
+   "minH": 750,
+   "prefW": 1200,
+   "minKB": 50,
+   "maxKB": 9500,
+   "label": "at least 600 × 750 px, 50 KB to 10 MB (GOV.UK digital photo rules)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "A recent photo showing your head and shoulders.",
+   "Plain expression, mouth closed, eyes open and visible.",
+   "Plain light-coloured background, no shadows, nobody else in the photo.",
+   "Avoid glasses unless you have to wear them; no tint, glare or reflection.",
+   "Unaltered by computer software."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK: Apply for a Veteran Card",
+    "url": "https://www.gov.uk/veteran-card/apply"
+   },
+   {
+    "name": "GOV.UK: HM Armed Forces Veteran Card",
+    "url": "https://www.gov.uk/veteran-card"
+   },
+   {
+    "name": "GOV.UK: Get a digital version of your Veteran Card",
+    "url": "https://www.gov.uk/veteran-card/get-digital"
+   },
+   {
+    "name": "GOV.UK: Get a passport photo (digital photos)",
+    "url": "https://www.gov.uk/photos-for-passports"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/veteran-card-photo/"
+ },
+ {
+  "id": "uk-driving-licence-print",
+  "name": "UK driving licence, postal D1 application (printed photo)",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   29,
+   34
+  ],
+  "head_height_official": true,
+  "background": "plain cream or light grey background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "DVLA asks for one recent printed passport-type photo with a paper D1 application.",
+   "45 mm high by 35 mm wide, head 29 to 34 mm from crown to chin.",
+   "Print in colour on plain white photographic paper, no border, not cut down from a larger picture.",
+   "Plain expression, mouth closed, eyes open; avoid glasses unless you must wear them.",
+   "Do not sign the back yourself. Only a countersignatory signs it, and only if DVLA asks for one."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK (DVLA): Change the photo on your driving licence",
+    "url": "https://www.gov.uk/renew-photo-driving-licence"
+   },
+   {
+    "name": "GOV.UK (DVLA): Renew your driving licence",
+    "url": "https://www.gov.uk/renew-driving-licence"
+   },
+   {
+    "name": "GOV.UK (DVLA): Apply for your first provisional driving licence",
+    "url": "https://www.gov.uk/apply-first-provisional-driving-licence"
+   },
+   {
+    "name": "GOV.UK (DVLA): Identity documents needed for a driving licence application",
+    "url": "https://www.gov.uk/id-for-driving-licence"
+   },
+   {
+    "name": "GOV.UK (HM Passport Office): Photo requirements for printed photos",
+    "url": "https://www.gov.uk/photos-for-passports/photo-requirements"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/uk-driving-licence-photo/"
+ },
+ {
+  "id": "uk-firearms-certificate",
+  "name": "UK firearm or shotgun certificate (Form 201)",
+  "country_or_group": "United Kingdom",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain cream or grey background",
+  "print": true,
+  "digital": {
+   "recW": 600,
+   "recH": 771,
+   "prefW": 1050,
+   "maxKB": 1000,
+   "label": "JPG under 1 MB (Thames Valley Police online form; check your own force)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Paper applications need one photo; a passport-style 45 × 35 mm print is suitable.",
+   "Professional standard, plain cream or grey background, nobody and nothing else in it.",
+   "Print on good quality gloss or matt paper.",
+   "Full face, looking straight at the camera, neutral expression, eyes open, mouth closed.",
+   "No sunglasses or tinted glasses, no red eye, no head covering unless for religious or medical reasons."
+  ],
+  "official_sources": [
+   {
+    "name": "Home Office: Form 201, application for the grant or renewal of a firearm and/or shotgun certificate (notes, paragraph 20)",
+    "url": "https://assets.publishing.service.gov.uk/media/6aad367f2f29b388848186dc/HO_Firearms_Form_201__Sept_26_-_Final_.pdf"
+   },
+   {
+    "name": "GOV.UK (Home Office): Firearms application forms",
+    "url": "https://www.gov.uk/government/publications/firearms-application-forms"
+   },
+   {
+    "name": "Thames Valley Police: Before you apply for a firearm or shotgun certificate",
+    "url": "https://www.thamesvalley.police.uk/advice/advice-and-information/fi/af/firearms-licensing/before-you-apply-firearm-or-shotgun-certificate/"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/uk-firearms-certificate-photo/"
+ },
+ {
+  "id": "ie-passport-online",
+  "name": "Irish passport (Passport Online)",
+  "country_or_group": "Ireland",
+  "width": 715,
+  "height": 951,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light grey, white or cream background",
+  "print": false,
+  "digital": {
+   "minW": 715,
+   "minH": 951,
+   "prefW": 1430,
+   "maxKB": 9000,
+   "label": "at least 715 × 951 px, max 9 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Someone else must take the photo. Selfies are refused.",
+   "Show yourself from head to mid torso, with space around your head.",
+   "Do not smile; mouth closed.",
+   "Taken in the last 6 months.",
+   "Not a scan of a printed photo."
+  ],
+  "official_sources": [
+   {
+    "name": "Department of Foreign Affairs: Passport photo guidelines",
+    "url": "https://www.ireland.ie/en/dfa/passports/photo-guidelines/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/irish-passport-photo/"
+ },
+ {
+  "id": "ie-visa",
+  "name": "Irish visa (printed photo)",
+  "country_or_group": "Ireland",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": true,
+  "background": "plain white or light grey background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "You need 2 identical photos, less than 6 months old.",
+   "Your face must take up 70% to 80% of the photo.",
+   "Neutral expression, eyes open, mouth closed, head not tilted.",
+   "No sunglasses or tinted glasses; eyes clearly visible.",
+   "Print in colour on photographic paper with a white, unglazed back."
+  ],
+  "official_sources": [
+   {
+    "name": "Immigration Service Delivery: Photograph rules for visa applications",
+    "url": "https://www.irishimmigration.ie/photograph-rules-for-visa-applications/"
+   },
+   {
+    "name": "Department of Foreign Affairs: Visas for Ireland",
+    "url": "https://www.ireland.ie/en/dfa/visas-for-ireland/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/irish-visa-photo/"
+ },
+ {
+  "id": "ie-passport-print",
+  "name": "Irish passport (paper application, printed photo)",
+  "country_or_group": "Ireland",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "completely plain light grey, white or cream background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "You need 4 identical photos, no more than 6 months old.",
+   "Show yourself from head to mid torso, with space around your head and shoulders.",
+   "Do not smile; mouth closed.",
+   "Print on photo-quality paper; the back must be white and unglazed.",
+   "Your witness signs and stamps 2 of the 4 photos and writes the form number on them."
+  ],
+  "official_sources": [
+   {
+    "name": "Department of Foreign Affairs: Passport photo guidelines",
+    "url": "https://www.ireland.ie/en/dfa/passports/photo-guidelines/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/irish-passport-photo/"
+ },
+ {
+  "id": "ie-student-leap",
+  "name": "Student TFI Leap Card (selfie upload)",
+  "country_or_group": "Ireland",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain background with good lighting",
+  "print": false,
+  "digital": {
+   "prefW": 1200,
+   "maxKB": 5000,
+   "label": "JPEG (PNG, TIFF, BMP also accepted), max 5 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Remove hats, masks and glasses.",
+   "Use good lighting and a plain background.",
+   "Keep your face centred, with a neutral expression.",
+   "The selfie is matched against your ID and printed on the card.",
+   "Young Adult and Child (16–18) cards need a live selfie in the application instead."
+  ],
+  "official_sources": [
+   {
+    "name": "TFI Leap Card: Student, Young Adult and Child card application",
+    "url": "https://student.leapcard.ie/New-Card"
+   },
+   {
+    "name": "TFI Leap Card: Young Adult and Student Card",
+    "url": "https://about.leapcard.ie/young-adult-and-student-card-launch"
+   },
+   {
+    "name": "TFI Leap Card: Child TFI Leap Cards",
+    "url": "https://about.leapcard.ie/child-leap-card"
+   },
+   {
+    "name": "TFI Leap Card: Terms and Conditions",
+    "url": "https://about.leapcard.ie/terms-and-conditions"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/student-leap-card-photo/"
+ },
+ {
+  "id": "ie-spsv-driver",
+  "name": "Ireland SPSV driver licence (printed, about 10 × 7 cm)",
+  "country_or_group": "Ireland",
+  "width": 70,
+  "height": 100,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light background (NTA names no colour; passport-style default)",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "You need 3 identical photos, each about 10 cm by 7 cm.",
+   "Show your head and shoulders.",
+   "Otherwise follow passport photo standards: plain background, neutral expression, eyes open.",
+   "Hand them in with form PSV 15 (new) or PSV 18 (renewal) at your Garda station.",
+   "Your photo appears on your driver display card and smart card."
+  ],
+  "official_sources": [
+   {
+    "name": "National Transport Authority: Applying for an SPSV driver licence",
+    "url": "https://www.nationaltransport.ie/taxi/driver-licensing/applying-for-an-spsv-driver-licence/"
+   },
+   {
+    "name": "National Transport Authority: The Official Manual for Operating in the SPSV Industry, edition 8.1 (PDF)",
+    "url": "https://www.nationaltransport.ie/wp-content/uploads/2026/10/NTA_SPSV_OfficialManual_v8.1-FINAL.pdf"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/ireland-spsv-licence-photo/"
+ },
+ {
+  "id": "schengen-visa",
+  "name": "Schengen visa (35 × 45 mm)",
+  "country_or_group": "Europe",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   32,
+   36
+  ],
+  "head_height_official": true,
+  "background": "white or off-white background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Check how recent your consulate wants the photo: 3 or 6 months.",
+   "Neutral expression, both eyes open.",
+   "Glasses only if the frames do not cover any part of the eyes.",
+   "Print on photo-quality paper."
+  ],
+  "official_sources": [
+   {
+    "name": "German Embassy London: Visa FAQ (photo requirements)",
+    "url": "https://uk.diplo.de/uk-en/02/visa/visa-faq/2442852"
+   },
+   {
+    "name": "German Embassy Dublin: Schengen visa FAQ",
+    "url": "https://dublin.diplo.de/ie-en/schengen-visa-aplications-faqs-2565772"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/schengen-visa-photo/"
+ },
+ {
+  "id": "au-passport-print",
+  "name": "Australian passport (printed)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   32,
+   36
+  ],
+  "head_height_official": true,
+  "background": "plain white or light grey background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Have it printed by dye sublimation at a photo lab or kiosk, not on an inkjet printer.",
+   "Glossy paper of at least 200 gsm.",
+   "No glasses unless medically required.",
+   "Neutral expression, mouth closed.",
+   "No retouching, including moles, wrinkles or scars."
+  ],
+  "official_sources": [
+   {
+    "name": "Australian Passport Office: Passport photos",
+    "url": "https://www.passports.gov.au/help/passport-photos"
+   },
+   {
+    "name": "Guarantors, referees and witnesses",
+    "url": "https://www.passports.gov.au/help/guarantors-referees-and-witnesses"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/australian-passport-photo/"
+ },
+ {
+  "id": "au-wwcc-vic",
+  "name": "Working with Children Check (Victoria)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 406,
+  "height": 521,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 406,
+   "minH": 521,
+   "prefW": 1218,
+   "maxKB": 4900,
+   "label": "JPG under 5 MB, at least 406 × 521 px"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Less than 12 months old, in colour.",
+   "Glasses are fine if you normally wear them.",
+   "Head covering only for religious or medical reasons.",
+   "Neutral expression, eyes open, no shadows."
+  ],
+  "official_sources": [
+   {
+    "name": "Victorian Government: Requirements for an acceptable photo",
+    "url": "https://www.vic.gov.au/requirements-acceptable-photo"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/working-with-children-check-photo-victoria/"
+ },
+ {
+  "id": "au-immiaccount",
+  "name": "Australia ImmiAccount (citizenship and visas)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "neutral or light grey background",
+  "print": false,
+  "digital": {
+   "exactW": 1200,
+   "exactH": 1600,
+   "minKB": 70,
+   "maxKB": 3500,
+   "label": "JPEG, 70 KB to 3.5 MB, preferred 1200 × 1600 px"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No more than 6 months old.",
+   "Unedited: do not remove the background, moles, wrinkles, scars or red eye.",
+   "Remove glasses unless medically required.",
+   "Not a scan of a print or a photo of a photo.",
+   "One photo for each applicant, including children."
+  ],
+  "official_sources": [
+   {
+    "name": "Department of Home Affairs: ImmiAccount help, Photograph",
+    "url": "https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0369.aspx"
+   },
+   {
+    "name": "Photo requirements for citizenship applications",
+    "url": "https://immi.homeaffairs.gov.au/citizenship/photo-requirements-for-citizenship-applications"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/australia-immiaccount-photo/"
+ },
+ {
+  "id": "nz-passport-online",
+  "name": "New Zealand passport (online)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 900,
+   "minH": 1200,
+   "maxW": 4500,
+   "maxH": 6000,
+   "prefW": 1800,
+   "minKB": 250,
+   "maxKB": 5000,
+   "label": "3:4, 900 to 4500 px wide, 250 KB to 5 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Someone else must take it from about 1.5 m. Selfies are rejected.",
+   "Include your shoulders and upper chest, with a clear gap around your head.",
+   "In colour, less than 6 months old.",
+   "Prescription glasses only if not tinted or thick-framed, with no glare.",
+   "No edits, filters or AI tools."
+  ],
+  "official_sources": [
+   {
+    "name": "Department of Internal Affairs: Passport photos",
+    "url": "https://www.passports.govt.nz/passport-photos/"
+   },
+   {
+    "name": "Check your photo meets the technical requirements",
+    "url": "https://www.passports.govt.nz/passport-photos/check-your-photo-meets-the-technical-requirements"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/new-zealand-passport-photo/"
+ },
+ {
+  "id": "nz-visa-online",
+  "name": "New Zealand visa or NZeTA",
+  "country_or_group": "Australia and New Zealand",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured (not white) background",
+  "print": false,
+  "digital": {
+   "minW": 900,
+   "minH": 1200,
+   "maxW": 2250,
+   "maxH": 3000,
+   "prefW": 1500,
+   "minKB": 500,
+   "maxKB": 3000,
+   "label": "3:4, 900 × 1200 to 2250 × 3000 px, 500 KB to 3 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "The background must be light but not white.",
+   "Stand 1 to 1.5 m from the background and from the camera.",
+   "No headwear covering the face, no bold clothing patterns.",
+   "Eyes open, looking directly at the lens."
+  ],
+  "official_sources": [
+   {
+    "name": "Immigration New Zealand: Taking acceptable visa photos (technical requirements, PDF)",
+    "url": "https://www.immigration.govt.nz/assets/inz/documents/apply-for-a-visa/Taking-acceptable-visa-photos.pdf"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/new-zealand-visa-photo/"
+ },
+ {
+  "id": "nz-kiwi-access",
+  "name": "Kiwi Access Card (printed 35 × 45 mm)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background that is not white",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Two identical colour prints, taken within the last 12 months.",
+   "Someone else must take it, about 1.5 m away at eye level. No selfies.",
+   "Face and shoulders, with a clear gap around the top, sides and bottom of the head.",
+   "Glasses are fine if not sunglasses, tinted or thick-framed, with no glare.",
+   "Print on photo quality paper."
+  ],
+  "official_sources": [
+   {
+    "name": "Kiwi Access: Photo requirements",
+    "url": "https://kiwiaccess.co.nz/photo-requirements/"
+   },
+   {
+    "name": "Kiwi Access Card application form (April 2025, PDF)",
+    "url": "https://www.kiwiaccess.co.nz/wp-content/uploads/2018/10/Kiwi-Access-Card-form-APR-2025.pdf"
+   },
+   {
+    "name": "Kiwi Access: Online application form",
+    "url": "https://apply.kiwiaccess.co.nz/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/kiwi-access-card-photo/"
+ },
+ {
+  "id": "nz-firearms-licence",
+  "name": "New Zealand firearms licence (MyFirearms upload)",
+  "country_or_group": "Australia and New Zealand",
+  "width": 3,
+  "height": 4,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background",
+  "print": false,
+  "digital": {
+   "minW": 900,
+   "minH": 1200,
+   "maxW": 4500,
+   "maxH": 6000,
+   "prefW": 1800,
+   "minKB": 25,
+   "maxKB": 9500,
+   "label": "3:4 JPG, 900 × 1200 to 4500 × 6000 px, 25 KB to 10 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "In colour and taken within the last 12 months.",
+   "Head and shoulders, with your head filling most of the photo.",
+   "Full front view: chin to forehead and both sides of your face.",
+   "No hat or head covering unless your religion requires one.",
+   "Not a scan of a printed photo."
+  ],
+  "official_sources": [
+   {
+    "name": "Firearms Safety and Education NZ: Application process",
+    "url": "https://www.firearmssafety.govt.nz/individual-licence/get-licensed/application-process"
+   },
+   {
+    "name": "Firearms Safety and Education NZ: Apply or reapply",
+    "url": "https://www.firearmssafety.govt.nz/individual-licence/get-licensed/apply-or-reapply"
+   },
+   {
+    "name": "New Zealand Firearms Licence Application Form FRM23FLA (PDF)",
+    "url": "https://www.firearmssafety.govt.nz/sites/default/files/2026-10/FRM23FLA%20-%20New%20Zealand%20Firearms%20Licence%20Application%20Form_1.pdf"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/nz-firearms-licence-photo/"
+ },
+ {
+  "id": "in-evisa",
+  "name": "India e-Visa",
+  "country_or_group": "India",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured or white background",
+  "print": false,
+  "digital": {
+   "recW": 350,
+   "recH": 350,
+   "prefW": 1000,
+   "minKB": 10,
+   "maxKB": 1000,
+   "label": "square JPEG, 10 KB to 1 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No spectacles.",
+   "Full face, front view, eyes open.",
+   "No borders and no shadows.",
+   "The passport page is uploaded separately as a PDF."
+  ],
+  "official_sources": [
+   {
+    "name": "Government of India: Indian Visa Online (e-Visa)",
+    "url": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+   },
+   {
+    "name": "Regular visa instructions",
+    "url": "https://indianvisaonline.gov.in/visa/instruction.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/indian-visa-photo/"
+ },
+ {
+  "id": "in-visa-regular",
+  "name": "India visa (regular, via mission)",
+  "country_or_group": "India",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured or white background",
+  "print": false,
+  "digital": {
+   "minW": 350,
+   "minH": 350,
+   "maxW": 1000,
+   "maxH": 1000,
+   "minKB": 10,
+   "maxKB": 300,
+   "label": "square, 350 to 1000 px, 10 to 300 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Full face, front view, eyes open.",
+   "Whole head from the top of the hair to the chin, centred.",
+   "No borders and no shadows."
+  ],
+  "official_sources": [
+   {
+    "name": "Government of India: Indian Visa Online (e-Visa)",
+    "url": "https://indianvisaonline.gov.in/evisa/tvoa.html"
+   },
+   {
+    "name": "Regular visa instructions",
+    "url": "https://indianvisaonline.gov.in/visa/instruction.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/indian-visa-photo/"
+ },
+ {
+  "id": "in-oci",
+  "name": "OCI card",
+  "country_or_group": "India",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain light-coloured (not white) background",
+  "print": false,
+  "digital": {
+   "minW": 200,
+   "minH": 200,
+   "maxW": 900,
+   "maxH": 900,
+   "maxKB": 200,
+   "label": "square, 200 to 900 px, max 200 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "The background must be light but not white.",
+   "Front view of head and shoulders, face in the middle.",
+   "No border.",
+   "The signature is a separate JPEG, also max 200 KB."
+  ],
+  "official_sources": [
+   {
+    "name": "Ministry of Home Affairs: OCI Services portal FAQ",
+    "url": "https://ociservices.gov.in/onlineOCI/faq"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/oci-card-photo/"
+ },
+ {
+  "id": "in-passport-overseas",
+  "name": "Indian passport, applying abroad (630 × 810 px)",
+  "country_or_group": "India",
+  "width": 630,
+  "height": 810,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white background",
+  "print": false,
+  "digital": {
+   "exactW": 630,
+   "exactH": 810,
+   "maxKB": 250,
+   "label": "630 × 810 px, under 250 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Colour, 630 × 810 pixels, on a white background.",
+   "Close-up of the head and top of the shoulders: the face takes up 80 to 85% of the photo.",
+   "Take off your glasses to avoid reflections.",
+   "Taken from 1.5 m away, eyes open, mouth closed, natural expression.",
+   "Your signature is a separate upload."
+  ],
+  "official_sources": [
+   {
+    "name": "Ministry of External Affairs, Passport Seva (missions): Guidelines for ICAO Compliant Photographs for Passport Applications (PDF)",
+    "url": "https://mportal.passportindia.gov.in/pdf/Guidelines_for_ICAO_Compliant_Photographs_for_Passport_Applications.pdf"
+   },
+   {
+    "name": "Passport Seva at Indian Embassies and Consulates: Before you apply",
+    "url": "https://mportal.passportindia.gov.in/mission/BeforeYouApply"
+   },
+   {
+    "name": "Embassy of India, Washington DC: GPSP 2.0 notice",
+    "url": "https://www.indianembassyusa.gov.in/Publicind?id=99"
+   },
+   {
+    "name": "High Commission of India, London: Guidelines for ICAO compliant photographs",
+    "url": "https://www.hcilondon.gov.in/news_detail/?newsid=850"
+   },
+   {
+    "name": "Consulate General of India, Toronto: Mandatory uploading of ICAO-compliant photographs",
+    "url": "https://www.cgitoronto.gov.in/alert_detail/?alertid=346"
+   },
+   {
+    "name": "High Commission of India, Canberra: ICAO photograph notice",
+    "url": "https://www.hcicanberra.gov.in/alert_detail/?alertid=215"
+   },
+   {
+    "name": "High Commission of India, Ottawa: ICAO photograph guidelines (PDF)",
+    "url": "https://hciottawa.gov.in/pdf/Guidelines_for_ICAO_Compliant_Photographs_for_Passport%20_Application.pdf"
+   },
+   {
+    "name": "High Commission of India, Ottawa: SOP for document uploading (PDF)",
+    "url": "https://hciottawa.gov.in/pdf/SOP_applicant_portal.pdf"
+   },
+   {
+    "name": "Embassy of India, Berne: Notice on ICAO photo requirements (250 KB)",
+    "url": "https://www.indembassybern.gov.in/page/notice-reg-icao-photo-requirements/"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/indian-passport-photo-abroad/"
+ },
+ {
+  "id": "in-pan-scan",
+  "name": "PAN card, Protean online with scanned images (max 20 KB)",
+  "country_or_group": "India",
+  "width": 197,
+  "height": 276,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white background",
+  "print": false,
+  "digital": {
+   "exactW": 197,
+   "exactH": 276,
+   "maxKB": 20,
+   "label": "197 × 276 px (3.5 × 2.5 cm at 200 dpi), colour JPEG, max 20 KB",
+   "dpi": 200
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Colour JPEG, no larger than 20 KB.",
+   "The signature is a separate colour JPEG, 2 × 4.5 cm, max 10 KB.",
+   "Supporting documents: PDF/A or JPEG, max 300 KB per page.",
+   "Your face must be clearly visible, with nothing over it."
+  ],
+  "official_sources": [
+   {
+    "name": "Protean: Form 93 and instructions (PAN application for Indian citizens)",
+    "url": "https://tinpan.proteantech.in/downloads/pan/download/Form%2093.pdf"
+   },
+   {
+    "name": "Income Tax Department: Form No. 93",
+    "url": "https://www.incometaxindia.gov.in/documents/d/guest/annex-a-pan-form"
+   },
+   {
+    "name": "Protean: Guidelines for online PAN applications with scanned images (DSC)",
+    "url": "https://tin.tin.proteantech.in/pan/InstructionDSC.html"
+   },
+   {
+    "name": "UTIITSL: Guidelines for submitting a PAN application",
+    "url": "https://www.pan.utiitsl.com/PAN_ONLINE/IPGguidelines.html"
+   },
+   {
+    "name": "Protean: Guidelines for filling a PAN application (Form 49A)",
+    "url": "https://tin.tin.proteantech.in/pan/form49ACombine.html"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/pan-card-photo/"
+ },
+ {
+  "id": "in-pan-print",
+  "name": "PAN card (printed 4.5 × 3.5 cm, Form 93)",
+  "country_or_group": "India",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "You need 2 identical recent colour photos.",
+   "Paste them in the spaces on the form; do not staple or clip them.",
+   "Sign across the left-hand photo only, partly on the photo and partly on the form.",
+   "Keep the right-hand photo clear, with no mark on it."
+  ],
+  "official_sources": [
+   {
+    "name": "Protean: Form 93 and instructions (PAN application for Indian citizens)",
+    "url": "https://tinpan.proteantech.in/downloads/pan/download/Form%2093.pdf"
+   },
+   {
+    "name": "Income Tax Department: Form No. 93",
+    "url": "https://www.incometaxindia.gov.in/documents/d/guest/annex-a-pan-form"
+   },
+   {
+    "name": "Protean: Guidelines for online PAN applications with scanned images (DSC)",
+    "url": "https://tin.tin.proteantech.in/pan/InstructionDSC.html"
+   },
+   {
+    "name": "UTIITSL: Guidelines for submitting a PAN application",
+    "url": "https://www.pan.utiitsl.com/PAN_ONLINE/IPGguidelines.html"
+   },
+   {
+    "name": "Protean: Guidelines for filling a PAN application (Form 49A)",
+    "url": "https://tin.tin.proteantech.in/pan/form49ACombine.html"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/pan-card-photo/"
+ },
+ {
+  "id": "cn-visa-digital",
+  "name": "China visa (online form upload)",
+  "country_or_group": "China",
+  "width": 354,
+  "height": 472,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white or close to white background",
+  "print": false,
+  "digital": {
+   "exactW": 354,
+   "exactH": 472,
+   "minKB": 40,
+   "maxKB": 120,
+   "label": "max 354 × 472 px, 40 to 120 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Ears visible, lips closed, eyes open.",
+   "Glasses allowed unless thick-rimmed, tinted or reflecting.",
+   "Taken in the last 6 months.",
+   "No edge frame or border."
+  ],
+  "official_sources": [
+   {
+    "name": "Chinese Visa Application Service Center (Manchester): Photo requirements",
+    "url": "https://www.visaforchina.cn/MAN4_EN/qianzhengyewu/jichuzhishi/changjianwenti/552365353674608655.html"
+   },
+   {
+    "name": "Chinese Visa Application Service Center (Sydney)",
+    "url": "https://www.visaforchina.cn/SYD4_EN/qianzhengyewu/jichuzhishi/changjianwenti/552371235904950309.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/china-visa-photo/"
+ },
+ {
+  "id": "cn-visa-print",
+  "name": "China visa (printed 33 × 48 mm)",
+  "country_or_group": "China",
+  "width": 33,
+  "height": 48,
+  "unit": "mm",
+  "head_height_mm": [
+   28,
+   33
+  ],
+  "head_height_official": true,
+  "background": "white or close to white background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Print on glossy photo paper, not matte or plain paper.",
+   "Ears visible, lips closed, eyes open.",
+   "Taken in the last 6 months."
+  ],
+  "official_sources": [
+   {
+    "name": "Chinese Visa Application Service Center (Manchester): Photo requirements",
+    "url": "https://www.visaforchina.cn/MAN4_EN/qianzhengyewu/jichuzhishi/changjianwenti/552365353674608655.html"
+   },
+   {
+    "name": "Chinese Visa Application Service Center (Sydney)",
+    "url": "https://www.visaforchina.cn/SYD4_EN/qianzhengyewu/jichuzhishi/changjianwenti/552371235904950309.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/china-visa-photo/"
+ },
+ {
+  "id": "sa-evisa",
+  "name": "Saudi Arabia eVisa",
+  "country_or_group": "Middle East",
+  "width": 1,
+  "height": 1,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": true,
+  "background": "white background with no pattern or shadows",
+  "print": false,
+  "digital": {
+   "exactW": 200,
+   "exactH": 200,
+   "minKB": 5,
+   "maxKB": 100,
+   "label": "200 × 200 px, 5 to 100 KB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No more than six months old.",
+   "Both ears and cheeks visible, head square to the camera.",
+   "Headwear only for religious reasons, with the face visible from chin to forehead.",
+   "Only you in the photo, with no objects."
+  ],
+  "official_sources": [
+   {
+    "name": "Saudi eVisa platform: Photo specifications",
+    "url": "https://visa.visitsaudi.com/Home/PhotoSpecifications"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/saudi-evisa-photo/"
+ },
+ {
+  "id": "ae-icp-photo",
+  "name": "UAE passport or Emirates ID (ICP, 3.5 × 4.5 cm)",
+  "country_or_group": "Middle East",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": true,
+  "background": "white background",
+  "print": true,
+  "digital": {
+   "prefW": 1000,
+   "label": "35 × 45 mm shape as a JPEG (ICP publishes no pixel or file-size limit)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No more than 6 months old; for a renewal, not the same photo as on your current passport or ID card.",
+   "No hats or sunglasses; medical glasses only, not covering the eyes.",
+   "Neutral expression, mouth closed, eyes open, face straight to the camera.",
+   "Hands must not appear above shoulder level; no frame around the photo.",
+   "Head coverings only for religious reasons, with the face shown from chin to forehead."
+  ],
+  "official_sources": [
+   {
+    "name": "ICP: Guide of the Services of the Federal Authority for Identity, Citizenship, Customs and Port Security",
+    "url": "https://icp.gov.ae/wp-content/themes/ica_v3/assets/images/servicesGuideEN2024.pdf"
+   },
+   {
+    "name": "ICP: Personal photo specifications",
+    "url": "https://smartservices.icp.gov.ae/echannels/web/client/manual/icao/icao_english.pdf"
+   },
+   {
+    "name": "ICP: Frequently asked questions",
+    "url": "https://icp.gov.ae/en/faq/"
+   },
+   {
+    "name": "GDRFA Dubai: Visit visa requirements",
+    "url": "https://gdrfad.gov.ae/en/node/2102"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/uae-passport-emirates-id-photo/"
+ },
+ {
+  "id": "size-35x45",
+  "name": "35 × 45 mm (standard passport size)",
+  "country_or_group": "Standard sizes",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   32,
+   36
+  ],
+  "head_height_official": false,
+  "background": "plain light background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "This is a generic size. Check the head size your own document requires.",
+   "No glasses unless your document allows them.",
+   "Neutral expression, mouth closed, eyes open."
+  ],
+  "official_sources": [],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/35x45-mm-photo/"
+ },
+ {
+  "id": "size-2x2",
+  "name": "2 × 2 inch (51 × 51 mm)",
+  "country_or_group": "Standard sizes",
+  "width": 50.8,
+  "height": 50.8,
+  "unit": "mm",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain white or off-white background",
+  "print": true,
+  "digital": {
+   "recW": 600,
+   "recH": 600,
+   "maxW": 1200,
+   "maxH": 1200,
+   "label": "square, 600 to 1200 px"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "This is a generic size. Check the rules of the document you are applying for.",
+   "No glasses.",
+   "Neutral expression, both eyes open."
+  ],
+  "official_sources": [],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/2x2-inch-photo/"
+ },
+ {
+  "id": "ca-visitor-visa",
+  "name": "Canada visitor visa (printed, 35 × 45 mm)",
+  "country_or_group": "Canada",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   31,
+   36
+  ],
+  "head_height_official": true,
+  "background": "plain white or light-coloured background",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Two identical photos, taken within the last six months.",
+   "Head from chin to crown between 31 and 36 mm.",
+   "Include the top of your shoulders, face in the middle.",
+   "Non-tinted prescription glasses only if the frame does not cover your eyes.",
+   "Write your name and date of birth on the back of both photos."
+  ],
+  "official_sources": [
+   {
+    "name": "IRCC: Temporary Resident Visa application photograph specifications",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/temporary-resident-visa-application-photograph-specifications.html"
+   },
+   {
+    "name": "IRCC: Visa application photograph specifications (PDF)",
+    "url": "https://www.canada.ca/content/dam/ircc/migration/ircc/english/pdf/photospecs-e.pdf"
+   },
+   {
+    "name": "IRCC: Document checklist, temporary resident visa (IMM 5484, PDF)",
+    "url": "https://www.canada.ca/content/dam/ircc/documents/pdf/english/kits/forms/imm5484/01-05-2026/imm5484e.pdf"
+   },
+   {
+    "name": "IRCC: How to apply for a visitor visa",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/apply-visitor-visa.html"
+   }
+  ],
+  "last_checked": "2026-11-11",
+  "guide": "https://passportphotofit.com/canada-visitor-visa-photo/"
+ },
+ {
+  "id": "ca-pr-card-online",
+  "name": "Canada PR card, online application (check only, no crop)",
+  "country_or_group": "Canada",
+  "width": 5,
+  "height": 7,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, untextured white background",
+  "print": false,
+  "digital": null,
+  "upload_original_unedited": true,
+  "notes": [
+   "IRCC requires a commercial photographer or studio. Check the file the studio gives you; do not edit it.",
+   "Taken no more than 12 months before you apply.",
+   "Plain, untextured white background; avoid white clothing.",
+   "Neutral expression, mouth closed, eyes open, face and shoulders centred.",
+   "Not a phone picture of a paper photo. A scan of the studio print is allowed."
+  ],
+  "official_sources": [
+   {
+    "name": "IRCC: Permanent resident photos",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/canada-pr-card-photo/"
+ },
+ {
+  "id": "ca-pal",
+  "name": "Canada firearms licence (PAL), 45 × 57 mm",
+  "country_or_group": "Canada",
+  "width": 45,
+  "height": 57,
+  "unit": "mm",
+  "head_height_mm": [
+   30,
+   36
+  ],
+  "head_height_official": false,
+  "background": "plain white or light-coloured background",
+  "print": true,
+  "digital": {
+   "recW": 900,
+   "recH": 1140,
+   "prefW": 1350,
+   "minKB": 200,
+   "maxKB": 6000,
+   "label": "JPG, portrait, 200 KB to 6 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Your head must be at least 30 mm high (RCMP); the upper limit here is recommended framing.",
+   "Less than 12 months old, face and shoulders centred, not tilted.",
+   "No sunglasses or tinted lenses, even prescription ones.",
+   "Hats and head coverings only if worn daily for religious or medical reasons.",
+   "First-time applicants: your guarantor writes their full name and signs the back of the print."
+  ],
+  "official_sources": [
+   {
+    "name": "RCMP: Photo requirements for a firearms licence",
+    "url": "https://rcmp.ca/en/firearms/licensing/photo-requirements-firearms-licence"
+   },
+   {
+    "name": "RCMP 5592: Information sheet, Possession and Acquisition Licence (PDF)",
+    "url": "https://rcmp.ca/sites/default/files/doc/5592e.pdf"
+   },
+   {
+    "name": "RCMP: Apply for a firearms licence",
+    "url": "https://rcmp.ca/en/firearms/apply-firearms-licence"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/canada-pal-photo/"
+ },
+ {
+  "id": "jp-passport-online",
+  "name": "Japanese passport, applying online (JPG upload)",
+  "country_or_group": "Japan",
+  "width": 35,
+  "height": 45,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain background (the app turns it white)",
+  "print": false,
+  "digital": {
+   "prefW": 1000,
+   "minKB": 20,
+   "maxKB": 600,
+   "label": "JPG, 20 to 600 KB (fits Mynaportal and ORR-net)"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "No edits that change your face: no eye enlarging, skin whitening, mole or wrinkle removal, or face slimming.",
+   "The app turns the background white: check the result before you submit.",
+   "You cannot replace the photo yourself after submitting.",
+   "Taken within the last 6 months.",
+   "No hat, glasses without glare, hair away from your eyes."
+  ],
+  "official_sources": [
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Passport application (photo standard)",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/pass_2.html"
+   },
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Photo and signature files for online applications",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/page24_002222.html"
+   },
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Applying online from Japan",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/page22_004036.html"
+   },
+   {
+    "name": "Consulate-General of Japan in Sydney: Passport photos",
+    "url": "https://www.sydney.au.emb-japan.go.jp/itpr_ja/consul_passport_photo.html"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/japanese-passport-photo/"
+ },
+ {
+  "id": "jp-passport-print",
+  "name": "Japanese passport (printed 45 × 35 mm)",
+  "country_or_group": "Japan",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   32,
+   36
+  ],
+  "head_height_official": true,
+  "background": "plain background with nothing behind you (white recommended)",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken within 6 months before you apply.",
+   "No hat; face the camera straight on.",
+   "No reflection on glasses, and frames must not cover your eyes.",
+   "Hair must not hide your eyes or the outline of your face.",
+   "Write your name lightly on the back so it does not show through."
+  ],
+  "official_sources": [
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Passport application (photo standard)",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/pass_2.html"
+   },
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Photo and signature files for online applications",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/page24_002222.html"
+   },
+   {
+    "name": "Ministry of Foreign Affairs of Japan: Applying online from Japan",
+    "url": "https://www.mofa.go.jp/mofaj/toko/passport/page22_004036.html"
+   },
+   {
+    "name": "Consulate-General of Japan in Sydney: Passport photos",
+    "url": "https://www.sydney.au.emb-japan.go.jp/itpr_ja/consul_passport_photo.html"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/japanese-passport-photo/"
+ },
+ {
+  "id": "sg-passport-print",
+  "name": "Singapore passport (printed 35 × 45 mm)",
+  "country_or_group": "Singapore",
+  "width": 35,
+  "height": 45,
+  "unit": "mm",
+  "head_height_mm": [
+   25,
+   35
+  ],
+  "head_height_official": true,
+  "background": "plain white background (light grey if your hair is white)",
+  "print": true,
+  "digital": null,
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken within the last 3 months, in colour, with no border.",
+   "Print on matte or semi-matte (non-reflective) paper.",
+   "Both edges of your face and the top of your shoulders must show.",
+   "No tinted glasses or sunglasses; no glare on lenses.",
+   "Head coverings only for religious or racial custom, and not white."
+  ],
+  "official_sources": [
+   {
+    "name": "Immigration & Checkpoints Authority (ICA): Photo guidelines",
+    "url": "https://www.ica.gov.sg/photo-guidelines"
+   },
+   {
+    "name": "ICA: Singapore passport application",
+    "url": "https://www.ica.gov.sg/information-and-e-services/identity-card-and-passport/singapore-passport/singapore-passport-application"
+   },
+   {
+    "name": "ICA: Application for Singapore passport submitted overseas (form IMM(E)11)",
+    "url": "https://www.ica.gov.sg/docs/ica/ica/forms/forms_form_imme_11_os-(1).pdf?sfvrsn=35df92a2_1"
+   },
+   {
+    "name": "ICA on AskGov: Photograph requirements for a visa application",
+    "url": "https://ask.gov.sg/ica/questions/clos83fvx01lz5k0wkrclrdwg"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/singapore-passport-photo/"
+ },
+ {
+  "id": "sg-passport-online",
+  "name": "Singapore passport or IC, applying online (400 × 514 px)",
+  "country_or_group": "Singapore",
+  "width": 400,
+  "height": 514,
+  "unit": "ratio",
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain white background",
+  "print": false,
+  "digital": {
+   "exactW": 400,
+   "exactH": 514,
+   "maxKB": 8000,
+   "label": "400 × 514 px, max 8 MB"
+  },
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken within the last 3 months, in colour.",
+   "Shoulders and hair fully visible.",
+   "Head coverings, if worn for religion or custom, must be dark, not white.",
+   "Clear, untinted glasses only; no coloured contact lenses.",
+   "Do not flip, filter or retouch the photo."
+  ],
+  "official_sources": [
+   {
+    "name": "Immigration & Checkpoints Authority (ICA): Photo guidelines",
+    "url": "https://www.ica.gov.sg/photo-guidelines"
+   },
+   {
+    "name": "ICA: Singapore passport application",
+    "url": "https://www.ica.gov.sg/information-and-e-services/identity-card-and-passport/singapore-passport/singapore-passport-application"
+   },
+   {
+    "name": "ICA: Application for Singapore passport submitted overseas (form IMM(E)11)",
+    "url": "https://www.ica.gov.sg/docs/ica/ica/forms/forms_form_imme_11_os-(1).pdf?sfvrsn=35df92a2_1"
+   },
+   {
+    "name": "ICA on AskGov: Photograph requirements for a visa application",
+    "url": "https://ask.gov.sg/ica/questions/clos83fvx01lz5k0wkrclrdwg"
+   }
+  ],
+  "last_checked": "2026-11-12",
+  "guide": "https://passportphotofit.com/singapore-passport-photo/"
+ }
+]
