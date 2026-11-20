@@ -1,6 +1,6 @@
 # Passport and ID photo specifications (open data)
 
-Photo size, head height and background rules for **49 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
+Photo size, head height and background rules for **62 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
 
 Every record links to the **official government source** it was taken from and says when it was last checked. Maintained by [PassportPhotoFit](https://passportphotofit.com), a free passport photo maker that runs in your browser.
 
@@ -75,7 +75,7 @@ Every record links to the **official government source** it was taken from and s
 | Saudi Arabia eVisa | digital, 1:1 | — | [official](https://visa.visitsaudi.com/Home/PhotoSpecifications) | 2026-11-11 |
 | UAE passport or Emirates ID (ICP, 3.5 × 4.5 cm) | 35 × 45 mm | — | [official](https://icp.gov.ae/wp-content/themes/ica_v3/assets/images/servicesGuideEN2024.pdf) | 2026-11-12 |
 | 35 × 45 mm (standard passport size) | 35 × 45 mm | 32–36 mm | generic size | 2026-11-11 |
-| 2 × 2 inch (51 × 51 mm) | 50.8 × 50.8 mm | — | generic size | 2026-11-11 |
+| 2 × 2 inch (51 × 51 mm) | 50.8 × 50.8 mm | — | [official](https://www.uscis.gov/newsroom/alerts/new-photo-policy-helps-prevent-immigration-fraud-through-enhanced-identity-verification) | 2026-11-11 |
 | Canada visitor visa (printed, 35 × 45 mm) | 35 × 45 mm | 31–36 mm | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/temporary-resident-visa-application-photograph-specifications.html) | 2026-11-11 |
 | Canada PR card, online application (check only, no crop) | digital, 5:7, min 715 × 1000 px | — | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/permanent-residents/card/photos.html) | 2026-11-12 |
 | Canada firearms licence (PAL), 45 × 57 mm | 45 × 57 mm | 30–36 mm | [official](https://rcmp.ca/en/firearms/licensing/photo-requirements-firearms-licence) | 2026-11-12 |
@@ -83,6 +83,19 @@ Every record links to the **official government source** it was taken from and s
 | Japanese passport (printed 45 × 35 mm) | 35 × 45 mm | 32–36 mm | [official](https://www.mofa.go.jp/mofaj/toko/passport/pass_2.html) | 2026-11-12 |
 | Singapore passport (printed 35 × 45 mm) | 35 × 45 mm | 25–35 mm | [official](https://www.ica.gov.sg/photo-guidelines) | 2026-11-12 |
 | Singapore passport or IC, applying online (400 × 514 px) | digital, 400:514 | — | [official](https://www.ica.gov.sg/photo-guidelines) | 2026-11-12 |
+| SIA licence (photo you provide yourself) | 35 × 45 mm | — | [official](https://www.gov.uk/guidance/apply-for-an-sia-licence) | 2026-11-18 |
+| London Freedom Pass (45 × 35 mm, print or upload) | 35 × 45 mm | — | [official](https://www.freedompass.org/apply-pass/older-persons-freedom-pass/what-i-need-apply) | 2026-11-18 |
+| Young Scot National Entitlement Card (upload or 45 × 35 mm print) | 35 × 45 mm | — | [official](https://getyournec.scot/nec/?opt=NEC-Card/247) | 2026-11-18 |
+| ECS card (electrotechnical), uploaded photo | digital, 35:45 | — | [official](https://www.ecscard.org.uk/content/ECS-Photo-Guide) | 2026-11-18 |
+| Australian citizenship, paper application (printed 35 × 45 mm) | 35 × 45 mm | 32–36 mm | [official](https://immi.homeaffairs.gov.au/citizenship/photo-requirements-for-citizenship-applications) | 2026-11-18 |
+| Queensland blue card, TMR remote application (35 × 45 mm print or JPEG) | 35 × 45 mm | — | [official](https://www.qld.gov.au/jobs/blue-card/applications/apply) | 2026-11-18 |
+| Canadian citizenship, online application (check only, no crop) | digital, 5:7, min 420 × 540 px | — | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/citizenship-application-photograph-specifications/grant-mail.html) | 2026-11-18 |
+| Blue Badge (England, Scotland, Wales), 45 × 35 mm | 35 × 45 mm | — | [official](https://www.gov.uk/government/publications/the-blue-badge-scheme-local-authority-guidance-england/blue-badge) | 2026-11-19 |
+| TfL taxi or private hire (PHV) driver licence, passport-sized | 35 × 45 mm | — | [official](https://content.tfl.gov.uk/photo-guidance.pdf) | 2026-11-19 |
+| TOTUM+ PASS ID card (uploaded photo) | digital, 4:5, min 600 × 750 px | — | [official](https://help.totum.com/support/solutions/articles/47001123116-taking-or-uploading-the-right-photo) | 2026-11-19 |
+| NEET (UG) 2026 application photo (NTA, 10 to 200 KB) | digital, 7:9 | — | [official](https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf) | 2026-11-19 |
+| UPSC online application photo (20 to 200 KB) | digital, 7:9 | — | [official](https://upsconline.nic.in/candidate/resources/bzh30/login/upsc-candidates-portal/dist/assets/instruction-photo-signature-upload-upsc-CCLCIgId.pdf) | 2026-11-19 |
+| Vietnam e-Visa portrait (4 × 6 cm, JPG under 2 MB) | digital, 2:3 | — | [official](https://evisa.gov.vn/instruction) | 2026-11-19 |
 
 ## Important
 

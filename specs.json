@@ -188,6 +188,14 @@
    {
     "name": "College Board: SAT photo requirements",
     "url": "https://satsuite.collegeboard.org/sat/registration/online-registration/photo-requirements"
+   },
+   {
+    "name": "College Board: SAT Testing Rules",
+    "url": "https://satsuite.collegeboard.org/testing-rules/sat"
+   },
+   {
+    "name": "College Board: Changing registration information",
+    "url": "https://satsuite.collegeboard.org/sat/registration/change-cancel/changing-registration-info"
    }
   ],
   "last_checked": "2026-11-11",
@@ -288,6 +296,14 @@
    {
     "name": "GOV.UK: Rules for printed photos",
     "url": "https://www.gov.uk/photos-for-passports/photo-requirements"
+   },
+   {
+    "name": "GOV.UK: Countersigning passport applications and photos",
+    "url": "https://www.gov.uk/countersigning-passport-applications"
+   },
+   {
+    "name": "GOV.UK: Apply for your first adult passport online",
+    "url": "https://www.gov.uk/apply-first-adult-passport/apply-online"
    }
   ],
   "last_checked": "2026-11-11",
@@ -325,6 +341,14 @@
    {
     "name": "GOV.UK: Rules for printed photos",
     "url": "https://www.gov.uk/photos-for-passports/photo-requirements"
+   },
+   {
+    "name": "GOV.UK: Countersigning passport applications and photos",
+    "url": "https://www.gov.uk/countersigning-passport-applications"
+   },
+   {
+    "name": "GOV.UK: Apply for your first adult passport online",
+    "url": "https://www.gov.uk/apply-first-adult-passport/apply-online"
    }
   ],
   "last_checked": "2026-11-11",
@@ -354,6 +378,10 @@
    {
     "name": "Railcard: Help and FAQs",
     "url": "https://www.railcard.co.uk/help/"
+   },
+   {
+    "name": "16-25 Railcard: Can I buy a Railcard at a rail station?",
+    "url": "https://www.16-25railcard.co.uk/help/faqs/can-i-buy-a-railcard-at-a-rail-station/"
    }
   ],
   "last_checked": "2026-11-11",
@@ -472,6 +500,10 @@
    {
     "name": "TfL FOI: Book 3, Discounts and Photocards (March 2025)",
     "url": "https://foi.tfl.gov.uk/FOI-3904-2425/Book%203%20Discounts%20and%20Photocards%20-%20%20March%202025.pdf"
+   },
+   {
+    "name": "TfL Conditions of Carriage (24 September 2026), condition 4.13",
+    "url": "https://content.tfl.gov.uk/tfl-conditions-of-carriage.pdf"
    }
   ],
   "last_checked": "2026-11-11",
@@ -924,6 +956,10 @@
    {
     "name": "Victorian Government: Requirements for an acceptable photo",
     "url": "https://www.vic.gov.au/requirements-acceptable-photo"
+   },
+   {
+    "name": "Victorian Government: Current Working with Children Check holders",
+    "url": "https://www.vic.gov.au/current-cardholders"
    }
   ],
   "last_checked": "2026-11-11",
@@ -1576,7 +1612,12 @@
    "No glasses.",
    "Neutral expression, both eyes open."
   ],
-  "official_sources": [],
+  "official_sources": [
+   {
+    "name": "USCIS: New photo policy (12 December 2025)",
+    "url": "https://www.uscis.gov/newsroom/alerts/new-photo-policy-helps-prevent-immigration-fraud-through-enhanced-identity-verification"
+   }
+  ],
   "last_checked": "2026-11-11",
   "guide": "https://passportphotofit.com/2x2-inch-photo/"
  },
@@ -1888,5 +1929,556 @@
   ],
   "last_checked": "2026-11-12",
   "guide": "https://passportphotofit.com/singapore-passport-photo/"
+ },
+ {
+  "id": "uk-sia-licence",
+  "name": "SIA licence (photo you provide yourself)",
+  "country_or_group": "United Kingdom",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white or cream background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Only needed if the SIA asks you to provide the photo yourself; otherwise the Post Office or your employer takes it.",
+   "In colour, clear and in focus, a true likeness of you.",
+   "Close-up of your full head and upper shoulders.",
+   "White or cream background.",
+   "Not changed using computer software."
+  ],
+  "official_sources": [
+   {
+    "name": "GOV.UK (Security Industry Authority): Apply for an SIA licence",
+    "url": "https://www.gov.uk/guidance/apply-for-an-sia-licence"
+   },
+   {
+    "name": "Post Office: SIA licence application",
+    "url": "https://www.postoffice.co.uk/identity/security-industry-authority-licence"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/sia-licence-photo/"
+ },
+ {
+  "id": "uk-freedom-pass",
+  "name": "London Freedom Pass (45 × 35 mm, print or upload)",
+  "country_or_group": "United Kingdom",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1050
+  },
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, evenly lit, pale-coloured background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken within the last 12 months.",
+   "In colour, 45 mm high by 35 mm wide.",
+   "Your full face, facing forward, without a hat.",
+   "Plain, evenly lit, pale-coloured background.",
+   "Postal applications: enclose one passport-sized colour photo."
+  ],
+  "official_sources": [
+   {
+    "name": "Freedom Pass (London Councils): What I need to apply",
+    "url": "https://www.freedompass.org/apply-pass/older-persons-freedom-pass/what-i-need-apply"
+   },
+   {
+    "name": "Freedom Pass: Apply for an older person's Freedom Pass",
+    "url": "https://www.freedompass.org/apply-pass/older-persons-freedom-pass/apply-older-persons-freedom-pass"
+   },
+   {
+    "name": "London Councils: Apply for a Freedom Pass by post",
+    "url": "https://www.londoncouncils.gov.uk/apply-freedom-pass-post"
+   },
+   {
+    "name": "Freedom Pass: Apply for a Disabled Person's Freedom Pass",
+    "url": "https://www.freedompass.org/apply-pass/disabled-persons-freedom-pass/apply-disabled-persons-freedom-pass"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/freedom-pass-photo/"
+ },
+ {
+  "id": "uk-young-scot-nec",
+  "name": "Young Scot National Entitlement Card (upload or 45 × 35 mm print)",
+  "country_or_group": "United Kingdom",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "minW": 600,
+   "minH": 750,
+   "prefW": 1050,
+   "minKB": 50,
+   "maxKB": 9500
+  },
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Clear, in focus, in colour and unaltered by software.",
+   "Plain, light-coloured background in clear contrast to you, with no shadows.",
+   "Face forward, eyes open, mouth closed, plain expression.",
+   "No sunglasses or tinted glasses; hair not covering your eyes.",
+   "Paper applications: a 45 × 35 mm passport-size photo."
+  ],
+  "official_sources": [
+   {
+    "name": "getyournec.scot (Improvement Service): Help and FAQs, digital photo quality",
+    "url": "https://getyournec.scot/nec/?opt=NEC-Card/247"
+   },
+   {
+    "name": "National Entitlement Card (nec.scot): Proof documents for your application",
+    "url": "https://www.nec.scot/proofs"
+   },
+   {
+    "name": "Young Scot: Young Scot National Entitlement Card FAQs",
+    "url": "https://young.scot/get-informed/young-scot-national-entitlement-card-frequently-asked-questions/"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/young-scot-card-photo/"
+ },
+ {
+  "id": "uk-ecs-card",
+  "name": "ECS card (electrotechnical), uploaded photo",
+  "country_or_group": "United Kingdom",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "35:45",
+  "digital_file": {
+   "prefW": 1050
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain background (ECS names no colour; a light passport-style default)",
+  "upload_original_unedited": false,
+  "notes": [
+   "Recent, good quality, full colour, passport style.",
+   "Head fully in frame and central, looking directly at the camera.",
+   "Plain background, nobody else in the shot.",
+   "No hats, sunglasses or squinting; religious or medical head coverings are allowed if the face is clear.",
+   "No selfies and no webcam shots. Upload a new photo with every application."
+  ],
+  "official_sources": [
+   {
+    "name": "ECS (JIB): ECS Photo Guide",
+    "url": "https://www.ecscard.org.uk/content/ECS-Photo-Guide"
+   },
+   {
+    "name": "ECS: Photo handling",
+    "url": "https://www.ecscard.org.uk/image"
+   },
+   {
+    "name": "ECS: Photo guidance (PDF)",
+    "url": "https://ecsprodstorkentico.blob.core.windows.net/ecs-public-media/jib.ecs.portals.web/media/root/downloads/documents/ecs-photo-guidance.pdf"
+   },
+   {
+    "name": "ECS: Application system photo update, September 2021 (PDF)",
+    "url": "https://www.ecscard.org.uk/getmedia/45ff7073-242b-4585-bbab-fee6d6677c8b/ECS-Application-System-New-Photo-Capture.pdf"
+   },
+   {
+    "name": "ECS: Craft card application form and guidance notes (PDF)",
+    "url": "https://ecsprodstorkentico.blob.core.windows.net/ecs-public-media/jib.ecs.portals.web/media/root/ECS-Craft-Card-Application-Form-and-Guidance-Notes.pdf"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/ecs-card-photo/"
+ },
+ {
+  "id": "au-citizenship-print",
+  "name": "Australian citizenship, paper application (printed 35 × 45 mm)",
+  "country_or_group": "Australia and New Zealand",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": [
+   32,
+   36
+  ],
+  "head_height_official": true,
+  "background": "neutral or light grey background that contrasts with your face",
+  "upload_original_unedited": false,
+  "notes": [
+   "Passport-sized: 35 to 40 mm wide and 45 to 50 mm high; face 32 to 36 mm from chin to crown.",
+   "No more than 6 months old, in colour, unedited.",
+   "Remove glasses unless you cannot for medical reasons.",
+   "Write the applicant's full name on the back.",
+   "Put the photo in a plastic sleeve and staple the sleeve to the form, not the photo."
+  ],
+  "official_sources": [
+   {
+    "name": "Department of Home Affairs: Photo requirements for citizenship applications",
+    "url": "https://immi.homeaffairs.gov.au/citizenship/photo-requirements-for-citizenship-applications"
+   },
+   {
+    "name": "Citizenship photo guidelines (PDF)",
+    "url": "https://immi.homeaffairs.gov.au/citizenship-subsite/files/citizenship-photo-guidelines.pdf"
+   },
+   {
+    "name": "Form 1300t: Application for Australian citizenship (PDF)",
+    "url": "https://immi.homeaffairs.gov.au/form-listing/forms/1300t.pdf"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/australian-citizenship-photo/"
+ },
+ {
+  "id": "au-qld-blue-card-remote",
+  "name": "Queensland blue card, TMR remote application (35 × 45 mm print or JPEG)",
+  "country_or_group": "Australia and New Zealand",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1050
+  },
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light-coloured background (e.g. white, cream, pale blue or light grey)",
+  "upload_original_unedited": false,
+  "notes": [
+   "New customers (form F5342): two identical colour prints, 35 × 45 mm, on high-quality paper. No photo booth pictures.",
+   "Existing CRN holders (form F5399): one colour JPEG, taken from 1.5 m by someone else. No selfies.",
+   "Taken within the last six months, and not edited or filtered.",
+   "No glasses or sunglasses, even if you wear them for driving.",
+   "Prints: an approved witness signs the back of both, and endorses one."
+  ],
+  "official_sources": [
+   {
+    "name": "Queensland Government: Apply for a blue card",
+    "url": "https://www.qld.gov.au/jobs/blue-card/applications/apply"
+   },
+   {
+    "name": "TMR form F5342: New Customer/Photo and Signature Remote Application (PDF)",
+    "url": "https://www.publications.qld.gov.au/dataset/e4b32466-3e6f-42b3-8934-3dc3ed4b2b4b/resource/e1895678-ccc4-4aa0-a4ec-9e90ba711167/download/f5342_cfd.pdf"
+   },
+   {
+    "name": "TMR F5342 remote kit instructions (PDF)",
+    "url": "https://www.publications.qld.gov.au/dataset/e4b32466-3e6f-42b3-8934-3dc3ed4b2b4b/resource/1684f971-6b75-4518-aac2-5696d82bbf52/download/f5342_instructions.pdf"
+   },
+   {
+    "name": "TMR form F5399: Existing Customer/Digital Photo and Signature Remote Application (PDF)",
+    "url": "https://www.publications.qld.gov.au/dataset/13a0c6c8-97ae-4f6e-8648-e51543a2f15b/resource/e7c33244-c7a6-49c3-b01f-6be6d4433ef7/download/f5399_cfd.pdf"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/qld-blue-card-photo/"
+ },
+ {
+  "id": "ca-citizenship-online",
+  "name": "Canadian citizenship, online application (check only, no crop)",
+  "country_or_group": "Canada",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "5:7",
+  "digital_file": {
+   "minW": 420,
+   "minH": 540,
+   "minKB": 0,
+   "maxMB": 4,
+   "types": [
+    "jpg",
+    "jpeg"
+   ]
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white or light-coloured background",
+  "upload_original_unedited": true,
+  "notes": [
+   "IRCC requires a commercial photographer or studio. Check the file they give you; do not edit it.",
+   "Taken no more than 6 months before you submit your application.",
+   "Plain white or light-coloured background, with a clear difference from your face.",
+   "Neutral expression, mouth closed, eyes open, face and shoulders centred.",
+   "No sunglasses or tinted glasses, even prescription ones."
+  ],
+  "official_sources": [
+   {
+    "name": "IRCC: Citizenship grant by mail, photo specifications",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/citizenship-application-photograph-specifications/grant-mail.html"
+   },
+   {
+    "name": "IRCC: Citizenship grant online, photo specifications",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/citizenship-application-photograph-specifications/grant-online.html"
+   },
+   {
+    "name": "IRCC: Citizenship photo specifications",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/application/application-forms-guides/citizenship-application-photograph-specifications.html"
+   }
+  ],
+  "last_checked": "2026-11-18",
+  "guide": "https://passportphotofit.com/canadian-citizenship-photo/"
+ },
+ {
+  "id": "uk-blue-badge",
+  "name": "Blue Badge (England, Scotland, Wales), 45 × 35 mm",
+  "country_or_group": "United Kingdom",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1050
+  },
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "light grey or cream background",
+  "upload_original_unedited": false,
+  "notes": [
+   "45 mm high by 35 mm wide, in colour.",
+   "Taken within the month before you apply.",
+   "Light grey or cream background, with a strong contrast between your face and it.",
+   "Close-up of your head and shoulders, nobody else in the picture.",
+   "A true likeness, not edited. No sunglasses, tinted lenses or glare."
+  ],
+  "official_sources": [
+   {
+    "name": "Department for Transport: Blue Badge scheme local authority guidance (England), Photographs",
+    "url": "https://www.gov.uk/government/publications/the-blue-badge-scheme-local-authority-guidance-england/blue-badge"
+   },
+   {
+    "name": "GOV.UK: Apply for or renew a Blue Badge",
+    "url": "https://www.gov.uk/apply-blue-badge"
+   },
+   {
+    "name": "legislation.gov.uk: Disabled Persons (Badges for Motor Vehicles) (Scotland) Regulations 2000, Schedule Part IIIB",
+    "url": "https://www.legislation.gov.uk/ssi/2000/59/schedule/part/IIIB"
+   },
+   {
+    "name": "Welsh Government: Blue Badge Scheme in Wales, guidance for local authorities",
+    "url": "https://www.gov.wales/blue-badge-scheme-wales-guidance-local-authorities-2021-html"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/blue-badge-photo/"
+ },
+ {
+  "id": "uk-tfl-taxi-phv-driver",
+  "name": "TfL taxi or private hire (PHV) driver licence, passport-sized",
+  "country_or_group": "United Kingdom",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": {
+   "prefW": 1050
+  },
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "clear, neutral-coloured background (not dark)",
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken in the last 12 months, in colour, sharp and clear.",
+   "Clear, neutral-coloured background with no objects or other people.",
+   "Full head shot from the top of your hair to the bottom of your neck.",
+   "Taken by someone else, facing forward and looking at the camera: no selfies.",
+   "No tinted glasses, no reflection, no fashion head covering."
+  ],
+  "official_sources": [
+   {
+    "name": "Transport for London: Taxi/Private Hire Licence Photo Guidance (PDF)",
+    "url": "https://content.tfl.gov.uk/photo-guidance.pdf"
+   },
+   {
+    "name": "Transport for London: Apply for a taxi driver licence",
+    "url": "https://tfl.gov.uk/info-for/taxis-and-private-hire/licensing/apply-for-a-taxi-driver-licence"
+   },
+   {
+    "name": "Transport for London: London taxi and PHV driver policy (PDF)",
+    "url": "https://content.tfl.gov.uk/taxi-and-private-hire-driver-policy.pdf"
+   },
+   {
+    "name": "Transport for London: How to renew your London taxi or PHV driver's licence (PDF)",
+    "url": "https://tph.tfl.gov.uk/assets/tfl/pdf/guidanceToRenewDriverLicenceForCustomers.pdf"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/tfl-taxi-private-hire-licence-photo/"
+ },
+ {
+  "id": "uk-totum-pass-id",
+  "name": "TOTUM+ PASS ID card (uploaded photo)",
+  "country_or_group": "United Kingdom",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "4:5",
+  "digital_file": {
+   "minW": 600,
+   "minH": 750,
+   "prefW": 1200,
+   "minKB": 50,
+   "maxKB": 10000
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, light-coloured background",
+  "upload_original_unedited": false,
+  "notes": [
+   "At least 600 px wide by 750 px high, between 50 KB and 10 MB.",
+   "Plain, light-coloured background, nothing and nobody behind you.",
+   "Head and shoulders, looking straight at the lens, mouth closed.",
+   "No smile or exaggerated expression, no shadows, nothing covering your face.",
+   "Colour only. Not photoshopped, stretched or squashed."
+  ],
+  "official_sources": [
+   {
+    "name": "TOTUM Member Support: Taking or uploading the right photo",
+    "url": "https://help.totum.com/support/solutions/articles/47001123116-taking-or-uploading-the-right-photo"
+   },
+   {
+    "name": "TOTUM Member Support: How do I register with TOTUM?",
+    "url": "https://help.totum.com/support/solutions/articles/47001239511-how-do-i-register-with-totum-"
+   },
+   {
+    "name": "TOTUM Member Support: How do I complete PASS ID verification?",
+    "url": "https://help.totum.com/support/solutions/articles/47001123101-how-do-i-complete-pass-id-verification-"
+   },
+   {
+    "name": "TOTUM Member Support: What is PASS ID?",
+    "url": "https://help.totum.com/support/solutions/articles/47001182440-what-is-pass-id-"
+   },
+   {
+    "name": "TOTUM Member Support: TOTUM + PASS ID, I'm under sixteen years old",
+    "url": "https://help.totum.com/support/solutions/articles/47001123106-totum-pass-id-i-m-under-sixteen-years-old"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/totum-pass-id-photo/"
+ },
+ {
+  "id": "in-neet-ug",
+  "name": "NEET (UG) 2026 application photo (NTA, 10 to 200 KB)",
+  "country_or_group": "India",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "7:9",
+  "digital_file": {
+   "prefW": 700,
+   "minKB": 10,
+   "maxKB": 200
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken after 1 January 2026.",
+   "Your face should fill 80% of the image: no mask, both ears visible.",
+   "Colour or black and white for the upload; keep colour prints of the same photo.",
+   "Spectacles only if you wear them regularly."
+  ],
+  "official_sources": [
+   {
+    "name": "NTA: Information Bulletin NEET (UG) 2026 (Chapter 3, pages 14–17)",
+    "url": "https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf"
+   },
+   {
+    "name": "NTA: NEET (UG) official website",
+    "url": "https://neet.nta.nic.in/"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/neet-photo/"
+ },
+ {
+  "id": "in-upsc",
+  "name": "UPSC online application photo (20 to 200 KB)",
+  "country_or_group": "India",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "7:9",
+  "digital_file": {
+   "prefW": 700,
+   "minKB": 20,
+   "maxKB": 200
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Rename the file to photo.jpg before uploading.",
+   "Face must cover at least 3/4 (75%) of the photo, with both ear lobes visible.",
+   "Look straight at the camera, natural expression, eyes open.",
+   "Do not sign the photo; no dark or coloured glasses."
+  ],
+  "official_sources": [
+   {
+    "name": "UPSC: Instructions for uploading the photo and signature (upsconline.nic.in)",
+    "url": "https://upsconline.nic.in/candidate/resources/bzh30/login/upsc-candidates-portal/dist/assets/instruction-photo-signature-upload-upsc-CCLCIgId.pdf"
+   },
+   {
+    "name": "UPSC: Engineering Services Examination 2027 notice (16 September 2026)",
+    "url": "https://www.upsc.gov.in/sites/default/files/Notif-ESEP-2027-Engl-160926.pdf"
+   },
+   {
+    "name": "UPSC: Civil Services Examination 2026 notice",
+    "url": "https://www.upsc.gov.in/sites/default/files/Notif-CSP-2026-Engl-060226Rev.pdf"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/upsc-photo/"
+ },
+ {
+  "id": "vn-evisa",
+  "name": "Vietnam e-Visa portrait (4 × 6 cm, JPG under 2 MB)",
+  "country_or_group": "Vietnam",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "2:3",
+  "digital_file": {
+   "prefW": 1000,
+   "maxKB": 2000
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Front-facing, recent photo.",
+   "No hat and no glasses.",
+   "Formal attire.",
+   "The passport data page is uploaded as a separate image."
+  ],
+  "official_sources": [
+   {
+    "name": "Viet Nam Immigration Department: e-Visa instructions (evisa.gov.vn)",
+    "url": "https://evisa.gov.vn/instruction"
+   },
+   {
+    "name": "Viet Nam Immigration Department: e-Visa website (conditions and notes)",
+    "url": "https://evisa.gov.vn/"
+   }
+  ],
+  "last_checked": "2026-11-19",
+  "guide": "https://passportphotofit.com/vietnam-evisa-photo/"
  }
 ]
