@@ -1,6 +1,6 @@
 # Passport and ID photo specifications (open data)
 
-Photo size, head height and background rules for **62 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
+Photo size, head height and background rules for **63 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
 
 Every record links to the **official government source** it was taken from and says when it was last checked. Maintained by [PassportPhotoFit](https://passportphotofit.com), a free passport photo maker that runs in your browser.
 
@@ -96,6 +96,7 @@ Every record links to the **official government source** it was taken from and s
 | NEET (UG) 2026 application photo (NTA, 10 to 200 KB) | digital, 7:9 | — | [official](https://cdnbbsr.s3waas.gov.in/s37bc1ec1d9c3426357e69acd5bf320061/uploads/2026/02/202602231394640855.pdf) | 2026-11-19 |
 | UPSC online application photo (20 to 200 KB) | digital, 7:9 | — | [official](https://upsconline.nic.in/candidate/resources/bzh30/login/upsc-candidates-portal/dist/assets/instruction-photo-signature-upload-upsc-CCLCIgId.pdf) | 2026-11-19 |
 | Vietnam e-Visa portrait (4 × 6 cm, JPG under 2 MB) | digital, 2:3 | — | [official](https://evisa.gov.vn/instruction) | 2026-11-19 |
+| Canadian passport, renewing online (check only, no crop) | digital, 2:3, min 1200 × 1800 px | — | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) | 2026-11-20 |
 
 ## Important
 

@@ -2480,5 +2480,52 @@
   ],
   "last_checked": "2026-11-19",
   "guide": "https://passportphotofit.com/vietnam-evisa-photo/"
+ },
+ {
+  "id": "ca-passport-online",
+  "name": "Canadian passport, renewing online (check only, no crop)",
+  "country_or_group": "Canada",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "2:3",
+  "digital_file": {
+   "minW": 1200,
+   "minH": 1800,
+   "maxW": 3000,
+   "maxH": 4500,
+   "minKB": 200,
+   "maxMB": 5,
+   "types": [
+    "jpg",
+    "jpeg"
+   ]
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain white or light-coloured background",
+  "upload_original_unedited": true,
+  "notes": [
+   "The digital photo must be taken in person by a commercial photographer. Check the file they give you; do not edit it.",
+   "Taken no more than 6 months before you apply. A scan of a printed photo is not accepted.",
+   "Chin to crown must be 45% to 50% of the photo's height, in a 3:2 portrait frame.",
+   "Plain white or light-coloured background; avoid light-coloured clothing.",
+   "Neutral expression, mouth closed, eyes open, no tinted glasses."
+  ],
+  "official_sources": [
+   {
+    "name": "IRCC: Passport photo requirements",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html"
+   },
+   {
+    "name": "IRCC: Renew a passport online",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/renew-adult-passport/submit-form-fees/renew-online.html"
+   },
+   {
+    "name": "IRCC: References and guarantors",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/travel-documents-references-guarantors.html"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/canadian-passport-photo/"
  }
 ]
