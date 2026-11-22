@@ -1,6 +1,6 @@
 # Passport and ID photo specifications (open data)
 
-Photo size, head height and background rules for **63 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
+Photo size, head height and background rules for **68 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
 
 Every record links to the **official government source** it was taken from and says when it was last checked. Maintained by [PassportPhotoFit](https://passportphotofit.com), a free passport photo maker that runs in your browser.
 
@@ -38,6 +38,8 @@ Every record links to the **official government source** it was taken from and s
 | US passport, renewing online (check only, no crop) | digital, 3:4 | — | [official](https://eforms.state.gov/Forms/ds82%5Fpdf.PDF) | 2026-11-11 |
 | US visa (DS-160 / DS-260 upload) | digital, 1:1, min 600 × 600 px | — | [official](https://be.usembassy.gov/photos/) | 2026-11-11 |
 | DV lottery entry (600 × 600 px) | digital, 1:1 | — | [official](https://www.govinfo.gov/content/pkg/FR-2024-10-01/pdf/2024-22482.pdf) | 2026-11-11 |
+| US work permit, Form I-765 (online upload) | digital, 1:1 | — | [official](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf) | 2026-11-21 |
+| US work permit, Form I-765 (printed 2 × 2 in) | 50.8 × 50.8 mm | 25.4–34.9 mm | [official](https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf) | 2026-11-21 |
 | SAT registration photo | digital, 3:4 | — | [official](https://satsuite.collegeboard.org/sat/registration/online-registration/photo-requirements) | 2026-11-11 |
 | ACT registration photo | digital, 3:4, min 480 × 640 px | — | [official](https://www.act.org/content/act/en/products-and-services/the-act/registration/photo-submission-requirements.html) | 2026-11-11 |
 | LSAT registration photo | digital, 1:1, min 195 × 195 px | — | [official](https://www.lsac.org/lsat/lsat-photo-requirements) | 2026-11-11 |
@@ -57,6 +59,7 @@ Every record links to the **official government source** it was taken from and s
 | Student TFI Leap Card (selfie upload) | digital, 3:4 | — | [official](https://student.leapcard.ie/New-Card) | 2026-11-11 |
 | Ireland SPSV driver licence (printed, about 10 × 7 cm) | 70 × 100 mm | — | [official](https://www.nationaltransport.ie/taxi/driver-licensing/applying-for-an-spsv-driver-licence/) | 2026-11-12 |
 | Schengen visa (35 × 45 mm) | 35 × 45 mm | 32–36 mm | [official](https://uk.diplo.de/uk-en/02/visa/visa-faq/2442852) | 2026-11-11 |
+| Spain student visa from the US (2 × 2 in) | 50.8 × 50.8 mm | — | [official](https://www.exteriores.gob.es/Consulados/boston/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx) | 2026-11-21 |
 | Australian passport (printed) | 35 × 45 mm | 32–36 mm | [official](https://www.passports.gov.au/help/passport-photos) | 2026-11-11 |
 | Working with Children Check (Victoria) | digital, 406:521, min 406 × 521 px | — | [official](https://www.vic.gov.au/requirements-acceptable-photo) | 2026-11-11 |
 | Australia ImmiAccount (citizenship and visas) | digital, 3:4 | — | [official](https://immi.homeaffairs.gov.au/help-text/evidence/Pages/et-h0369.aspx) | 2026-11-11 |
@@ -97,6 +100,8 @@ Every record links to the **official government source** it was taken from and s
 | UPSC online application photo (20 to 200 KB) | digital, 7:9 | — | [official](https://upsconline.nic.in/candidate/resources/bzh30/login/upsc-candidates-portal/dist/assets/instruction-photo-signature-upload-upsc-CCLCIgId.pdf) | 2026-11-19 |
 | Vietnam e-Visa portrait (4 × 6 cm, JPG under 2 MB) | digital, 2:3 | — | [official](https://evisa.gov.vn/instruction) | 2026-11-19 |
 | Canadian passport, renewing online (check only, no crop) | digital, 2:3, min 1200 × 1800 px | — | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) | 2026-11-20 |
+| Pakistan NADRA PakID (NICOP, CNIC, POC) photo upload | digital, 3:4 | — | [official](https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/) | 2026-11-20 |
+| Pakistani passport online (DGI&P e-Services, 350 × 467 px) | digital, 350:467 | — | [official](https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/) | 2026-11-20 |
 
 ## Important
 

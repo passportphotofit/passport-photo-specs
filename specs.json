@@ -165,6 +165,126 @@
   "guide": "https://passportphotofit.com/dv-lottery-photo/"
  },
  {
+  "id": "us-ead-online",
+  "name": "US work permit, Form I-765 (online upload)",
+  "country_or_group": "United States",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "1:1",
+  "digital_file": {
+   "prefW": 1200
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white to off-white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Upload one passport-style photo as a JPEG or PNG file.",
+   "Name the file with English letters, numbers, spaces, periods, hyphens, underscores or brackets only.",
+   "Do not edit, enhance or filter the photo.",
+   "Head bare, unless you wear headwear for your religion.",
+   "Watch your USCIS account for a biometrics appointment notice."
+  ],
+  "official_sources": [
+   {
+    "name": "USCIS: Instructions for Form I-765 (edition 08/21/25), Photographs",
+    "url": "https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf"
+   },
+   {
+    "name": "USCIS: Form I-765 page (edition in use, photo alert)",
+    "url": "https://www.uscis.gov/i-765"
+   },
+   {
+    "name": "USCIS alert: New Photo Policy Helps Prevent Immigration Fraud (12 December 2025)",
+    "url": "https://www.uscis.gov/newsroom/alerts/new-photo-policy-helps-prevent-immigration-fraud-through-enhanced-identity-verification"
+   },
+   {
+    "name": "USCIS Policy Alert PA-2025-29: Photograph Reuse for Identity Documents",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20251212-PhotographReuse.pdf"
+   },
+   {
+    "name": "USCIS Policy Manual, Volume 1, Part C, Chapter 2: Biometrics Collection",
+    "url": "https://www.uscis.gov/policy-manual/volume-1-part-c-chapter-2"
+   },
+   {
+    "name": "USCIS: Online filing webinar, Form I-765 for F-1 students seeking OPT",
+    "url": "https://www.uscis.gov/sites/default/files/document/outreach-engagements/USCIS_Online_Filing_Webinar_Form_I-765_Application_for_Employment_Authorization_for_F-1_Students_Seeking_OPT.pdf"
+   },
+   {
+    "name": "USCIS: Tips for Filing Forms Online",
+    "url": "https://www.uscis.gov/file-online/tips-for-filing-forms-online"
+   },
+   {
+    "name": "Foreign Affairs Manual, 8 FAM 402.1 (passport photographs, eyeglasses)",
+    "url": "https://fam.state.gov/FAM/08FAM/08FAM040201.html"
+   }
+  ],
+  "last_checked": "2026-11-21",
+  "guide": "https://passportphotofit.com/i-765-ead-photo/"
+ },
+ {
+  "id": "us-ead-print",
+  "name": "US work permit, Form I-765 (printed 2 × 2 in)",
+  "country_or_group": "United States",
+  "kind": "printed",
+  "print_size_mm": [
+   50.8,
+   50.8
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": [
+   25.4,
+   34.9
+  ],
+  "head_height_official": true,
+  "background": "white to off-white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Send two identical colour photos.",
+   "Thin paper with a glossy finish. Do not mount the photos.",
+   "Lightly print your name and A-Number (if any) on the back in pencil or felt pen.",
+   "Do not retouch or digitally enhance the photo.",
+   "Head bare, unless you wear headwear for your religion."
+  ],
+  "official_sources": [
+   {
+    "name": "USCIS: Instructions for Form I-765 (edition 08/21/25), Photographs",
+    "url": "https://www.uscis.gov/sites/default/files/document/forms/i-765instr.pdf"
+   },
+   {
+    "name": "USCIS: Form I-765 page (edition in use, photo alert)",
+    "url": "https://www.uscis.gov/i-765"
+   },
+   {
+    "name": "USCIS alert: New Photo Policy Helps Prevent Immigration Fraud (12 December 2025)",
+    "url": "https://www.uscis.gov/newsroom/alerts/new-photo-policy-helps-prevent-immigration-fraud-through-enhanced-identity-verification"
+   },
+   {
+    "name": "USCIS Policy Alert PA-2025-29: Photograph Reuse for Identity Documents",
+    "url": "https://www.uscis.gov/sites/default/files/document/policy-manual-updates/20251212-PhotographReuse.pdf"
+   },
+   {
+    "name": "USCIS Policy Manual, Volume 1, Part C, Chapter 2: Biometrics Collection",
+    "url": "https://www.uscis.gov/policy-manual/volume-1-part-c-chapter-2"
+   },
+   {
+    "name": "USCIS: Online filing webinar, Form I-765 for F-1 students seeking OPT",
+    "url": "https://www.uscis.gov/sites/default/files/document/outreach-engagements/USCIS_Online_Filing_Webinar_Form_I-765_Application_for_Employment_Authorization_for_F-1_Students_Seeking_OPT.pdf"
+   },
+   {
+    "name": "USCIS: Tips for Filing Forms Online",
+    "url": "https://www.uscis.gov/file-online/tips-for-filing-forms-online"
+   },
+   {
+    "name": "Foreign Affairs Manual, 8 FAM 402.1 (passport photographs, eyeglasses)",
+    "url": "https://fam.state.gov/FAM/08FAM/08FAM040201.html"
+   }
+  ],
+  "last_checked": "2026-11-21",
+  "guide": "https://passportphotofit.com/i-765-ead-photo/"
+ },
+ {
   "id": "us-sat",
   "name": "SAT registration photo",
   "country_or_group": "United States",
@@ -890,6 +1010,85 @@
   ],
   "last_checked": "2026-11-11",
   "guide": "https://passportphotofit.com/schengen-visa-photo/"
+ },
+ {
+  "id": "es-student-visa-us",
+  "name": "Spain student visa from the US (2 × 2 in)",
+  "country_or_group": "Europe",
+  "kind": "printed",
+  "print_size_mm": [
+   50.8,
+   50.8
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "white or off-white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken in the last 6 months.",
+   "Neutral expression, no smile, mouth closed.",
+   "No sunglasses and no dark or reflective glasses.",
+   "Hand in an original print on photo paper. Copies are refused.",
+   "Check your consulate's page on whether to glue the photo to the form or hand it in loose."
+  ],
+  "official_sources": [
+   {
+    "name": "Consulate General of Spain in Boston: Study visa",
+    "url": "https://www.exteriores.gob.es/Consulados/boston/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx"
+   },
+   {
+    "name": "BLS International, Spain visa USA: Boston national student visa",
+    "url": "https://usa.blsspainvisa.com/boston/national-student-visa.php"
+   },
+   {
+    "name": "BLS International, Spain visa USA: New York student checklist (PDF)",
+    "url": "https://usa.blsspainvisa.com/nyc/assets/pdf/NYchecklist-Students.pdf"
+   },
+   {
+    "name": "BLS International, Spain visa USA: New York national student visa",
+    "url": "https://usa.blsspainvisa.com/nyc/national-student-visa.php"
+   },
+   {
+    "name": "BLS International, Spain visa USA: Chicago national student visa",
+    "url": "https://usa.blsspainvisa.com/chicago/national-student-visa.php"
+   },
+   {
+    "name": "BLS International, Spain visa USA: Miami national student visa",
+    "url": "https://usa.blsspainvisa.com/miami/national-student-visa.php"
+   },
+   {
+    "name": "BLS International, Spain visa USA: Los Angeles national student visa",
+    "url": "https://usa.blsspainvisa.com/losangeles/national-student-visa.php"
+   },
+   {
+    "name": "BLS International, Spain visa USA: San Francisco national student visa",
+    "url": "https://usa.blsspainvisa.com/sanfrancisco/national-student-visa.php"
+   },
+   {
+    "name": "Consulate General of Spain in Los Angeles: Study visa",
+    "url": "https://www.exteriores.gob.es/Consulados/losangeles/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx"
+   },
+   {
+    "name": "Consulate General of Spain in Houston: Student visa",
+    "url": "https://www.exteriores.gob.es/Consulados/houston/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx"
+   },
+   {
+    "name": "Consular Section of Spain in Washington, D.C.: Study visa",
+    "url": "https://www.exteriores.gob.es/Consulados/washington/en/ServiciosConsulares/Paginas/Consular/study-visa.aspx"
+   },
+   {
+    "name": "Consulate General of Spain in San Francisco: Student visa",
+    "url": "https://www.exteriores.gob.es/Consulados/sanfrancisco/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx"
+   },
+   {
+    "name": "Consulate General of Spain in Chicago: Student visa",
+    "url": "https://www.exteriores.gob.es/Consulados/chicago/en/ServiciosConsulares/Paginas/Consular/Visado-de-estudios.aspx"
+   }
+  ],
+  "last_checked": "2026-11-21",
+  "guide": "https://passportphotofit.com/spain-student-visa-photo/"
  },
  {
   "id": "au-passport-print",
@@ -2527,5 +2726,80 @@
   ],
   "last_checked": "2026-11-20",
   "guide": "https://passportphotofit.com/canadian-passport-photo/"
+ },
+ {
+  "id": "pk-pak-id-online",
+  "name": "Pakistan NADRA PakID (NICOP, CNIC, POC) photo upload",
+  "country_or_group": "Pakistan",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
+   "prefW": 700
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain or white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Taken in the last 6 months.",
+   "Plain or white background; no shadows on the face or the wall.",
+   "Colour only: NADRA does not accept black and white.",
+   "Do not use filters, layers or any editing.",
+   "Look straight at the camera; hair must not cross your eyes."
+  ],
+  "official_sources": [
+   {
+    "name": "NADRA: Photo Uploading/Capturing Guidelines",
+    "url": "https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/"
+   },
+   {
+    "name": "NADRA: PakID FAQs",
+    "url": "https://www.nadra.gov.pk/pakIdentityFaqs"
+   },
+   {
+    "name": "Directorate General of Immigration and Passports: online passport e-Services",
+    "url": "https://dgip.gov.pk/eServices/online-passport.php"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/pakistan-nadra-pak-id-photo/"
+ },
+ {
+  "id": "pk-passport-eservices",
+  "name": "Pakistani passport online (DGI&P e-Services, 350 × 467 px)",
+  "country_or_group": "Pakistan",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "350:467",
+  "digital_file": {
+   "maxKB": 3072
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "white background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Colour picture on a white background.",
+   "JPEG or JPG, 350 × 467 pixels, not more than 3 MB.",
+   "This is the DGI&P passport portal, not the NADRA PakID app.",
+   "Look straight at the camera with your whole face visible."
+  ],
+  "official_sources": [
+   {
+    "name": "NADRA: Photo Uploading/Capturing Guidelines",
+    "url": "https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/"
+   },
+   {
+    "name": "NADRA: PakID FAQs",
+    "url": "https://www.nadra.gov.pk/pakIdentityFaqs"
+   },
+   {
+    "name": "Directorate General of Immigration and Passports: online passport e-Services",
+    "url": "https://dgip.gov.pk/eServices/online-passport.php"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/pakistan-nadra-pak-id-photo/"
  }
 ]
