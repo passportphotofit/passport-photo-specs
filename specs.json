@@ -2801,5 +2801,94 @@
   ],
   "last_checked": "2026-11-20",
   "guide": "https://passportphotofit.com/pakistan-nadra-pak-id-photo/"
+ },
+ {
+  "id": "nz-citizenship-online",
+  "name": "NZ citizenship application (online, 1 photo)",
+  "country_or_group": "Australia and New Zealand",
+  "kind": "digital",
+  "print_size_mm": null,
+  "aspect_ratio": "3:4",
+  "digital_file": {
+   "minW": 900,
+   "minH": 1200,
+   "maxW": 4500,
+   "maxH": 6000,
+   "prefW": 1800,
+   "minKB": 250,
+   "maxKB": 5000
+  },
+  "head_height_mm": null,
+  "head_height_official": null,
+  "background": "plain, neutral background",
+  "upload_original_unedited": false,
+  "notes": [
+   "One photo, saved as a .jpeg.",
+   "Someone else takes it. No selfies.",
+   "Less than 6 months old, head and shoulders, neutral expression.",
+   "The citizenship page points to the passport photo rules for size and file limits."
+  ],
+  "official_sources": [
+   {
+    "name": "Govt.nz: What to get ready before you apply for NZ citizenship",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/what-to-get-ready-before-you-apply-for-nz-citizenship/"
+   },
+   {
+    "name": "Govt.nz: Apply for NZ citizenship",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/apply-for-nz-citizenship/"
+   },
+   {
+    "name": "Govt.nz: Citizenship ceremonies",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/citizenship-ceremonies/"
+   },
+   {
+    "name": "Department of Internal Affairs: Passport photo technical requirements",
+    "url": "https://www.passports.govt.nz/passport-photos/check-your-photo-meets-the-technical-requirements"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/new-zealand-citizenship-photo/"
+ },
+ {
+  "id": "nz-citizenship-print",
+  "name": "NZ citizenship application (paper, 2 prints)",
+  "country_or_group": "Australia and New Zealand",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, neutral background",
+  "upload_original_unedited": false,
+  "notes": [
+   "Two identical prints on photo quality paper, less than 6 months old.",
+   "Your witness signs the back of one photo.",
+   "Do not staple, glue or paper-clip the photos to the form.",
+   "Someone else takes it. No selfies."
+  ],
+  "official_sources": [
+   {
+    "name": "Govt.nz: What to get ready before you apply for NZ citizenship",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/what-to-get-ready-before-you-apply-for-nz-citizenship/"
+   },
+   {
+    "name": "Govt.nz: Apply for NZ citizenship",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/apply-for-nz-citizenship/"
+   },
+   {
+    "name": "Govt.nz: Citizenship ceremonies",
+    "url": "https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/citizenship-ceremonies/"
+   },
+   {
+    "name": "Department of Internal Affairs: Passport photo technical requirements",
+    "url": "https://www.passports.govt.nz/passport-photos/check-your-photo-meets-the-technical-requirements"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/new-zealand-citizenship-photo/"
  }
 ]

@@ -1,6 +1,6 @@
 # Passport and ID photo specifications (open data)
 
-Photo size, head height and background rules for **68 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
+Photo size, head height and background rules for **70 passport, visa and ID documents**: US, UK, Ireland, Schengen, Canada, Australia, New Zealand, India and more.
 
 Every record links to the **official government source** it was taken from and says when it was last checked. Maintained by [PassportPhotoFit](https://passportphotofit.com), a free passport photo maker that runs in your browser.
 
@@ -102,6 +102,8 @@ Every record links to the **official government source** it was taken from and s
 | Canadian passport, renewing online (check only, no crop) | digital, 2:3, min 1200 × 1800 px | — | [official](https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-passports/photos.html) | 2026-11-20 |
 | Pakistan NADRA PakID (NICOP, CNIC, POC) photo upload | digital, 3:4 | — | [official](https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/) | 2026-11-20 |
 | Pakistani passport online (DGI&P e-Services, 350 × 467 px) | digital, 350:467 | — | [official](https://www.nadra.gov.pk/photo-uploading-capturing-guidelines/) | 2026-11-20 |
+| NZ citizenship application (online, 1 photo) | digital, 3:4, min 900 × 1200 px | — | [official](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/what-to-get-ready-before-you-apply-for-nz-citizenship/) | 2026-11-20 |
+| NZ citizenship application (paper, 2 prints) | 35 × 45 mm | — | [official](https://www.govt.nz/browse/passports-citizenship-and-identity/nz-citizenship/how-to-apply-for-nz-citizenship/what-to-get-ready-before-you-apply-for-nz-citizenship/) | 2026-11-20 |
 
 ## Important
 
