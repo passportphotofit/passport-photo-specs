@@ -2890,5 +2890,48 @@
   ],
   "last_checked": "2026-11-20",
   "guide": "https://passportphotofit.com/new-zealand-citizenship-photo/"
+ },
+ {
+  "id": "ie-age-card",
+  "name": "Irish Garda age card (printed passport-size photo)",
+  "country_or_group": "Ireland",
+  "kind": "printed",
+  "print_size_mm": [
+   35,
+   45
+  ],
+  "aspect_ratio": null,
+  "digital_file": null,
+  "head_height_mm": null,
+  "head_height_official": false,
+  "background": "plain, light background (no colour is published; passport-style default)",
+  "upload_original_unedited": false,
+  "notes": [
+   "You need one recent passport-size photo of your head and shoulders.",
+   "No millimetre size is published for the age card, so this uses the standard 35 × 45 mm passport size.",
+   "Sign the printed application form in front of the Garda, then put the photo in the pocket on the form.",
+   "The Garda countersigns and stamps the form; the station sends the form and photo to the printers.",
+   "Print on good photo paper and keep the photo clean and flat."
+  ],
+  "official_sources": [
+   {
+    "name": "An Garda Síochána: National Age Card",
+    "url": "https://www.garda.ie/en/about-us/online-services/national-age-card/"
+   },
+   {
+    "name": "gov.ie: Proof of Age Card",
+    "url": "https://www.gov.ie/en/service/proof-of-age-card/"
+   },
+   {
+    "name": "Irish Statute Book: S.I. 652/2010, Intoxicating Liquor Act 1988 (Age Card) Regulations 2010",
+    "url": "https://www.irishstatutebook.ie/eli/2010/si/652/made/en/print"
+   },
+   {
+    "name": "An Garda Síochána: new age card procedure",
+    "url": "https://www.garda.ie/en/about-us/online-services/national-age-card/new-age-card-procedure.pdf"
+   }
+  ],
+  "last_checked": "2026-11-20",
+  "guide": "https://passportphotofit.com/irish-age-card-photo/"
  }
 ]
